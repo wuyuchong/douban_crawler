@@ -1,0 +1,48 @@
+---
+documentclass: ctexart
+output:
+  rticles::ctex:
+    fig_caption: yes
+    number_sections: yes
+    template: template.tex
+    highlight: espresso
+classoption: "hyperref,"
+geometry: margin=1in
+header-includes:
+   - \usepackage{graphicx}
+   - \usepackage{float}
+   - \usepackage{indentfirst}
+   - \setlength{\parindent}{4em}
+logo: "cufe.jpg"
+---
+
+```{r setup, include=FALSE, message=FALSE}
+knitr::opts_chunk$set(fig.pos = 'H', echo = TRUE, warning = FALSE, message = FALSE, comment = NA)
+library(rmarkdown)
+library(knitr)
+library(tidyverse)
+library(dplyr)
+# base_family = 'STXihei'
+```
+
+# 摘要{-}
+
+在此次作业中，我们爬取了豆瓣读书中的评论，我们选取《哈利波特》一书，爬取了 20 页评论，并将其进行词云绘制。
+
+\tableofcontents
+
+# 可视化
+
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap = "词云图"}
+knitr::include_graphics("../code/comment_cloud.jpg")
+```
+
+# 代码
+
+```{python, eval=FALSE, code=xfun::read_utf8('../code/main.py')}
+```
+
+# 爬取评论展示
+
+```{r, highlight=FALSE, eval=FALSE, code=xfun::read_utf8('../code/outcome.txt')}
+```
