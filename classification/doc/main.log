@@ -1,16 +1,16 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.10)  10 MAR 2022 18:25
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.21)  26 JUN 2022 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexart.cls (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+L3 programming layer <2022-01-12> (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/ctexart.cls (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2021/12/12 v2.5.8 Backend configuration file (CTEX)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-02-24 L3 programming layer (loader) 
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-12 L3 programming layer (loader) 
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
 (|extractbb --version)
 \c__kernel_sys_dvipdfmx_version_int=\count181
 \l__color_backend_stack_int=\count182
@@ -22,17 +22,17 @@ File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 \g__pdf_backend_link_int=\count187
 ))
 Document Class: ctexart 2021/12/12 v2.5.8 Chinese adapter for class article (CTEX)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexpatch.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
@@ -41,16 +41,16 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \l__ctex_tmp_dim=\dimen138
 \g__ctex_section_depth_int=\count189
 \g__ctex_font_size_int=\count190
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
 )
 
 Package ctex Warning: Option `hyperref' is deprecated.
 (ctex)                `hyperref' package will be loaded.
 
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count191
@@ -64,11 +64,11 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen139
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen140
 \l__xtemplate_tmp_int=\count199
@@ -133,9 +133,9 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \g__xeCJK_fam_allocation_int=\count275
 \l__xeCJK_verb_case_int=\count276
 \l__xeCJK_verb_exspace_skip=\skip55
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count277
 \l__fontspec_language_int=\count278
@@ -151,61 +151,55 @@ Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen169
 \l__fontspec_tmpb_dim=\dimen170
 \l__fontspec_tmpc_dim=\dimen171
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/home/competition/.TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
 ))
 \ccwd=\dimen172
 \l__ctex_ccglue_skip=\skip56
 )
 \l__ctex_ziju_dim=\dimen173
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count288
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
 ))
 \l__ctex_heading_skip=\skip57
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
 File: ctex-scheme-chinese-article.def 2021/12/12 v2.5.8 Chinese scheme for article (CTEX)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
-)) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+)) (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/ctex-c5size.clo
 File: ctex-c5size.clo 2021/12/12 v2.5.8 c5size option (CTEX)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
-File: ctex-fontset-mac.def 2021/12/12 v2.5.8 macOS fonts definition (CTEX)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macnew.def
-File: ctex-fontset-macnew.def 2021/12/12 v2.5.8 macOS fonts definition for El Capitan or later version (CTEX)
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2021/12/12 v2.5.8 Fandol fonts definition (CTEX)
 
-Package fontspec Warning: Font "Songti SC Light" does not contain requested
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
 (fontspec)                Script "CJK".
 
 
-Package fontspec Info: Font family 'SongtiSCLight(0)' created for font 'Songti
-(fontspec)             SC Light' with options
-(fontspec)             [Script={CJK},BoldItalicFont={Kaiti SC
-(fontspec)             Bold},BoldFont={Songti SC Bold},ItalicFont={Kaiti SC}].
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold},ItalicFont={FandolKai-Regular}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Songti SC
-(fontspec)             Light/OT:language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Songti SC
-(fontspec)             Bold/OT:language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Kaiti
-(fontspec)             SC/OT:language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Kaiti SC
-(fontspec)             Bold/OT:language=dflt;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-))) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex.cfg
+)) (/home/competition/.TinyTeX/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -239,9 +233,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
@@ -249,20 +243,20 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (/home/competition/.TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip58
 For additional information on amsmath, use the `?' option.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen174
-)) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/home/competition/.TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen175
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
 \inf@bad=\count289
@@ -302,27 +296,27 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/home/competition/.TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 \g__um_fam_int=\count301
 \g__um_fonts_used_int=\count302
 \l__um_primecount_int=\count303
 \g__um_primekern_muskip=\muskip18
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/home/competition/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 227.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
@@ -333,84 +327,86 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(/home/competition/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks22
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen183
 \Hy@linkcounter=\count304
 \Hy@pagecounter=\count305
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count306
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4018.
-Package hyperref Info: Option `unicode' set `true' on input line 4018.
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4390.
+Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count307
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip19
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4749.
+LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen184
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count308
 \Field@Width=\dimen185
 \Fld@charsize=\dimen186
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -419,9 +415,9 @@ package with kernel methods
 \c@Hfootnote=\count311
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2022-02-21 v7.00n Hyperref driver for XeTeX
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+(/home/competition/.TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \pdfm@box=\box55
@@ -429,20 +425,20 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \HyField@AnnotCount=\count313
 \Fld@listcount=\count314
 \c@bookmark@seq@number=\count315
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip61
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count316
@@ -457,7 +453,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen193
 \Gm@layoutvoffset=\dimen194
 \Gm@dimlist=\toks23
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
 \FV@CodeLineNo=\count319
 \FV@InFile=\read2
@@ -465,39 +461,83 @@ Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
 \c@FancyVerbLine=\count320
 \FV@StepNumber=\count321
 \FV@OutFile=\write3
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip62
 \fb@frw=\dimen195
 \fb@frh=\dimen196
 \FrameRule=\dimen197
 \FrameSep=\dimen198
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip63
+\LTright=\skip64
+\LTpre=\skip65
+\LTpost=\skip66
+\LTchunksize=\count322
+\LTcapwidth=\dimen199
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count323
+\LT@rows=\count324
+\c@LT@tables=\count325
+\c@LT@chunks=\count326
+\LT@p@ftn=\toks24
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen256
+\lightrulewidth=\dimen257
+\cmidrulewidth=\dimen258
+\belowrulesep=\dimen259
+\belowbottomsep=\dimen260
+\aboverulesep=\dimen261
+\abovetopsep=\dimen262
+\cmidrulesep=\dimen263
+\cmidrulekern=\dimen264
+\defaultaddspace=\dimen265
+\@cmidla=\count327
+\@cmidlb=\count328
+\@aboverulesep=\dimen266
+\@belowrulesep=\dimen267
+\@thisruleclass=\count329
+\@lastruleclass=\count330
+\@thisrulewidth=\dimen268
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count331
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box62
+\fn@width=\dimen269
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
 )
-\Gin@req@height=\dimen199
-\Gin@req@width=\dimen256
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
+\Gin@req@height=\dimen270
+\Gin@req@width=\dimen271
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count322
-\float@exts=\toks24
-\float@box=\box57
-\@float@everytoks=\toks25
-\@floatcapt=\box58
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/tools/indentfirst.sty
+\c@float@type=\count332
+\float@exts=\toks25
+\float@box=\box63
+\@float@everytoks=\toks26
+\@floatcapt=\box64
+) (/home/competition/.TinyTeX/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
 
 Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault'
-(xeCJK)                (SongtiSCLight(0)).
+(xeCJK)                (FandolSong-Regular(0)).
 
 
 Package fontspec Info: SimSun scale = 0.9511690917572482.
@@ -521,7 +561,7 @@ Package fontspec Info: SimSun scale = 0.9511690917572482.
 Package fontspec Info: SimHei scale = 0.9511690917572482.
 
 
-Package fontspec Info: STKaiti scale = 0.9663633678182936.
+Package fontspec Info: STKaiti scale = 1.122390501936034.
 
 
 Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
@@ -538,46 +578,46 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 (fontspec)             <->s*[0.9511690917572482]"SimHei/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.9663633678182936]"STKaiti/OT:script=hani;language=dflt;"
+(fontspec)             <->s*[1.122390501936034]"STKaiti/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 97.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 97.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 97.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 97.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 97.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 97.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 97.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999966408685371.
 
@@ -603,7 +643,7 @@ Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 97.
+(Font)              scaled to size 10.53937pt on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999966408685371.
 
@@ -635,15 +675,15 @@ Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 97.
+(Font)              scaled to size 10.53937pt on input line 106.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 97.
+(Font)              `operators' in the math version `normal' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 97.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 106.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 97.
+(Font)              `operators' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 97.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999966408685371.
 
@@ -722,13 +762,13 @@ Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 97.
+(Font)              `symbols' in the math version `normal' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 97.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 106.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 97.
+(Font)              `symbols' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 97.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999966408685371.
 
@@ -789,26 +829,26 @@ Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             =6.32362pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 97.
+(Font)              `largesymbols' in the math version `normal' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 97.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 106.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 97.
+(Font)              `largesymbols' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 97.
-Package hyperref Info: Link coloring OFF on input line 97.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 106.
+Package hyperref Info: Link coloring OFF on input line 106.
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/Users/ethan/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/home/competition/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count323
+\c@section@level=\count333
 )
-LaTeX Info: Redefining \ref on input line 97.
-LaTeX Info: Redefining \pageref on input line 97.
-LaTeX Info: Redefining \nameref on input line 97.
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -851,344 +891,828 @@ File: cufe.jpg Graphic file (type bmp)
 <cufe.jpg>
 
 LaTeX Font Warning: Font shape `TU/SimSun(0)/m/sc' undefined
-(Font)              using `TU/SimSun(0)/m/n' instead on input line 110.
+(Font)              using `TU/SimSun(0)/m/n' instead on input line 119.
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/n' will be
-(Font)              scaled to size 14.32108pt on input line 110.
+(Font)              scaled to size 14.32108pt on input line 119.
 LaTeX Font Info:    Font shape `TU/SimSun(0)/b/n' will be
-(Font)              scaled to size 21.00424pt on input line 118.
+(Font)              scaled to size 21.00424pt on input line 127.
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sc' will be
-(Font)              scaled to size 11.45686pt on input line 127.
+(Font)              scaled to size 11.45686pt on input line 136.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.37756pt on input line 133.
+(Font)              scaled to size 7.37756pt on input line 144.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.26968pt on input line 133.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 133.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+(Font)              scaled to size 5.26968pt on input line 144.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 144.
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.54033pt on input line 133.
+(Font)              scaled to size 10.54033pt on input line 144.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.37823pt on input line 133.
+(Font)              scaled to size 7.37823pt on input line 144.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.27016pt on input line 133.
+(Font)              scaled to size 5.27016pt on input line 144.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.53824pt on input line 133.
+(Font)              scaled to size 10.53824pt on input line 144.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.37677pt on input line 133.
+(Font)              scaled to size 7.37677pt on input line 144.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.26912pt on input line 133.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 133.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+(Font)              scaled to size 5.26912pt on input line 144.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 144.
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 133.
-(/Users/ethan/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 144.
+(/home/competition/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/n' will be
-(Font)              scaled to size 11.45686pt on input line 143.
+(Font)              scaled to size 11.45686pt on input line 154.
 [1
 
 ]
 LaTeX Font Info:    Font shape `TU/SimSun(0)/b/n' will be
-(Font)              scaled to size 14.32108pt on input line 149.
+(Font)              scaled to size 14.32108pt on input line 160.
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/n' will be
-(Font)              scaled to size 10.02475pt on input line 152.
-(./main.toc
+(Font)              scaled to size 10.02475pt on input line 163.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.52812pt on input line 166.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 166.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.52881pt on input line 166.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 166.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.52731pt on input line 166.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 166.
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/n' will be
+(Font)              scaled to size 7.16054pt on input line 166.
+[1] (./main.toc
 LaTeX Font Info:    Font shape `TU/SimSun(0)/b/n' will be
 (Font)              scaled to size 10.02475pt on input line 1.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-File: ../code/comment_cloud.jpg Graphic file (type bmp)
-<../code/comment_cloud.jpg>
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 168.
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 199.
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/it' will be
-(Font)              scaled to size 10.18492pt on input line 168.
-[1]
+(Font)              scaled to size 11.82928pt on input line 199.
+[2] [3]
 
-Package fontspec Info: STFangsong scale = 1.122390501936034.
-
-
-Package fontspec Info: Could not resolve font "STFangsong/BI" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
 
 
-Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: FandolFang-Regular scale = 0.9410453776731103.
 
 
-Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: FandolFang-Regular scale = 0.9410453776731103.
 
 
-Package fontspec Info: STFangsong scale = 1.122390501936034.
-
-
-Package fontspec Info: Font family 'STFangsong(0)' created for font
-(fontspec)             'STFangsong' with options
-(fontspec)             [Scale=MatchLowercase,Script={CJK}].
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Scale=MatchLowercase,Script={CJK},Extension={.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.122390501936034]"STFangsong/OT:script=hani;language=dflt;"
+(fontspec)             <->s*[0.9410453776731103]"[FandolFang-Regular.otf]/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+File: ../figure/comment_cloud.jpg Graphic file (type bmp)
+<../figure/comment_cloud.jpg>
+[4] [5] [6]
+LaTeX Font Info:    Font shape `TU/SimSun(0)/b/n' will be
+(Font)              scaled to size 11.45686pt on input line 329.
+File: ../figure/topic1.png Graphic file (type bmp)
+<../figure/topic1.png>
+[7]
+File: ../figure/topic2.png Graphic file (type bmp)
+<../figure/topic2.png>
+File: ../figure/topic3.png Graphic file (type bmp)
+<../figure/topic3.png>
+[8] [9] [10] [11]
+File: ../figure/word2vec_lstm.png Graphic file (type bmp)
+<../figure/word2vec_lstm.png>
+[12]
+File: ../figure/bert_model.png Graphic file (type bmp)
+<../figure/bert_model.png>
+File: ../figure/bert_train.png Graphic file (type bmp)
+<../figure/bert_train.png>
+[13]
+File: ../figure/Adamw.png Graphic file (type bmp)
+<../figure/Adamw.png>
+[14] [15]
+Underfull \hbox (badness 1629) in paragraph at lines 699--703
+[]\TU/SimSun(0)/m/n/10.53937 由 于 在 \TU/lmr/m/n/10.53937 UDF |\TU/SimSun(0)/m/n/10.53937 （用 户 自 定 义）|  函 数 中 使 用 了 第 三 方 包，|  需 要 将 其 发 送 至 集 群 中 的 每 个 计 算 节 点
+ []
+
+[16] [17] [18]
+Overfull \hbox (0.86871pt too wide) in paragraph at lines 869--870
+[]\TU/lmr/m/n/10.53937 [4] \TU/SimSun(0)/m/n/10.53937 王 博\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 刘 盛 博\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 丁 堃\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 刘 则 渊\TU/lmr/m/n/10.53937 . \TU/SimSun(0)/m/n/10.53937 基 于 \TU/lmr/m/n/10.53937 LDA \TU/SimSun(0)/m/n/10.53937 主 题 模 型 的 专 利 内 容 分 析 方 法 \TU/lmr/m/n/10.53937 [J]. \TU/SimSun(0)/m/n/10.53937 科 研 管 理\TU/lmr/m/n/10.53937 ,2015,36(03):111-
+ []
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.53937> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 174.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 884.
 
 LaTeX Font Warning: Font shape `TU/lmtt/bx/it' in size <10.53937> not available
-(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 174.
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 884.
 
 
-LaTeX Font Warning: Font shape `TU/STFangsong(0)/b/it' undefined
-(Font)              using `TU/STFangsong(0)/m/n' instead on input line 177.
+LaTeX Font Warning: Font shape `TU/FandolFang-Regular(0)/b/it' undefined
+(Font)              using `TU/FandolFang-Regular(0)/m/n' instead on input line 887.
 
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/m/n' will be
-(Font)              scaled to size 11.82928pt on input line 177.
-[2]
-Underfull \vbox (badness 10000) detected at line 279
+LaTeX Font Info:    Font shape `TU/FandolFang-Regular(0)/m/n' will be
+(Font)              scaled to size 9.91795pt on input line 887.
+[19]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Underfull \vbox (badness 10000) detected at line 279
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
-[3]
-Underfull \vbox (badness 10000) detected at line 279
- []
-
-
-Underfull \vbox (badness 10000) detected at line 279
- []
-
-[4]
-
-Package xeCJK Warning: `\xeCJKVerbAddon' may not work properly.
-(xeCJK)                
-(xeCJK)                You may set `Scale=0.9355' to CJKfamily
-(xeCJK)                `\CJKttdefault',
-(xeCJK)                or set `Scale=1.069' to family `\ttdefault'.
-
-
-Package fontspec Info: STFangsong scale = 1.122390501936034.
-
-
-Package fontspec Info: Could not resolve font "STFangsong/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: STFangsong scale = 1.122390501936034.
-
-
-Package fontspec Info: Font family 'STFangsong(1)' created for font
-(fontspec)             'STFangsong' with options
-(fontspec)             [Scale=MatchLowercase,Script={CJK},Script={CJK},Scale={0.9355041767495137}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9355041767495137]"STFangsong/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Font shape `TU/STFangsong(1)/m/n' will be
-(Font)              scaled to size 9.85959pt on input line 496.
-
-Overfull \hbox (873.56253pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 赶在去大阪的前一天重温完了这套书。为了把大布局收尾，罗琳硬生生编出两个“\TU/lmtt/m/n/10.53937 N\TU/STFangsong(1)/m/n/10.53937 大”设定，这是让线索合理化的最简单技巧。但能完成得不崩已经很厉害。最喜欢的角色之一死了。主次人物的上下限也一直在约束。但当我走进\TU/lmtt/m/n/10.53937 USJ\TU/STFangsong(1)/m/n/10.53937 的霍格莫德村，真像回了家的感觉。这时才发现任何写作技巧，都不如情感。[] 
+[20]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (147.07265pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 就这么结束了，书拿到手的时候，马不停蹄的读，一方面又害怕看完，是在是很矛盾。看到斯内普那段的时候流泪了……我就没觉得他是坏人\TU/lmtt/m/n/10.53937 ~[] 
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[21]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (220.41618pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 一？难道小时候没读第七本？对作为成年人的我，这个幻想故事显得力道不足了。现实比幻想艰难多了，现实里读哈利波特长大的人也不敢说出伏地魔的名字。[] 
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[22]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (1232.62851pt too wide) in paragraph at lines 496--496
-[]\TU/lmtt/m/n/10.53937 2020\TU/STFangsong(1)/m/n/10.53937 年重读\TU/lmtt/m/n/10.53937 08:\TU/STFangsong(1)/m/n/10.53937 故事结束了，难过的时候我会拿出来读读，因为还相信某些就像书里所说早已被耻笑的东西，是因为这些才想在这样艰难的人生里活下去。某些\TU/lmtt/m/n/10.53937 you know who\TU/STFangsong(1)/m/n/10.53937 们永远也无法理解的东西，某些精致的利己主义者们，强权者的走狗们无法理解的东西，他们耻笑这个，更相信《黑暗森林》那套，但他们永远不懂，这时候无法平静的心，感谢罗琳带来的慰藉，记住爱，总有希望的。[] 
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[23]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (2972.44823pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 这本稀碎情节太多，完全都是没必要的。比如哈利怀疑邓布利多的过去、罗恩的出走、哈利让罗恩摧毁魂器、赫敏再见到罗恩时反常的愤怒，都显得异常突兀、生硬。熄灯器开传送门也很假，还有为什么食死徒来西诺费利家是用扫帚而不是幻影显形，难道是为了给西诺费利腾出时间来讲故事么？死圣的传说更是破绽百出，隐形衣不止一个，火焰杯中小克劳奇就有一个。还有，哈利是傻\TU/lmtt/m/n/10.53937 X\TU/STFangsong(1)/m/n/10.53937 么？明明告诉他说出伏地魔的名字会被跟踪，在被罗恩打断的情况下他还是坚持要把自己暴露。各种推理也没道理，伏地魔觉得只有自己知道把东西藏在有求必应屋？傻\TU/lmtt/m/n/10.53937 X\TU/STFangsong(1)/m/n/10.53937 么？那的东西都堆成山了。斯内普也白死了，没看出来他起了什么关键作用，只给了哈利一把剑，而这把剑难道非得斯内普给么？最后的决战也不精彩，最终居然又是反弹攻击，能不能换换啊？伏地魔被作者“写”死了，没什么过硬的理[] 
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[24]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (1021.45639pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 在哈利三人组开始毫无头绪的逃亡之后，作者又试图不断用圣器魂器这类名词混淆读者的思路，但最终，还是以哈利在决斗中消灭了伏地魔而告终，这其实是一个在第一部开始就注定了的结局。可恨的是罗琳还拉了很多无辜的配角作牺牲品，其中韦斯莱家那对可爱的双胞胎一死一残，令人很不满意！倒是斯内普，终于没有让我的预感成空\TU/lmtt/m/n/10.53937 ~~``[] 
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[25]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (249.99498pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 这两天重读的，比以前读懂得多了一点。也许，以前还不能体会到其中的一种温存的暖意。邓布利多的身世真的很令人惊讶，不过更令人惊讶的是伏地魔的死的离奇。[] 
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[26]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (406.33604pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 要是所有的书我都能读得那么快就好了：去大马出差了四天，等飞机看，吃饭看，坐车看，等人看，工作完了回宾馆继续看，看着看着六百页就看完了，回到曼谷正好周三电影半价日，\TU/lmtt/m/n/10.53937 good timing~~~[] 
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
-[5]
-Overfull \hbox (505.43248pt too wide) in paragraph at lines 496--496
-[]\TU/lmtt/m/n/10.53937 2009.02.12.\TU/STFangsong(1)/m/n/10.53937 和这套书里的主人公一起长大了。在小说全部读完之后，有一种终于长大和童年告别的不舍感。故事里的大家都有像浴火重生了，就像邓不利多的凤凰。虽然有的人死去，但又有人新生，还是\TU/lmtt/m/n/10.53937 Happy Ending\TU/STFangsong(1)/m/n/10.53937 好。[] 
- []
-
-
-Overfull \hbox (1058.48119pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 二刷。听到快大决战的部分已经半夜，想着不看完今晚是睡不着了，就拿起手机开始接着看。真的很感谢罗琳给的这个结局，无论前面剧情多么坑爹节奏多么拖沓。我深深喜欢过的那么几部系列长篇只有罗琳起码给了一个不敷衍的结局，一个真正地填了主要坑的结局。又给后续的故事留了可能。希望罗琳长命百岁地写下去，让这个魔法世界无限延伸。[] 
+[27]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (289.2277pt too wide) in paragraph at lines 496--496
-[]\TU/lmtt/m/n/10.53937 7\TU/STFangsong(1)/m/n/10.53937 部\TU/lmtt/m/n/10.53937 Harry Potter\TU/STFangsong(1)/m/n/10.53937 ，超乎儿童文学的构造庞大，虽然有\TU/lmtt/m/n/10.53937 bug\TU/STFangsong(1)/m/n/10.53937 ，但是也辛苦罗琳了。伴随我和很多人一起长大的一部书，看完后反而是心酸了。会再读很多遍，直到不相信童话。[] 
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
-[6]
-Overfull \hbox (308.44632pt too wide) in paragraph at lines 496--496
-[]\TU/lmtt/m/n/10.53937 2010\TU/STFangsong(1)/m/n/10.53937 年我最期盼的一部电影就是哈\TU/lmtt/m/n/10.53937 7\TU/STFangsong(1)/m/n/10.53937 ，因为这么多年，他们长大了，我也长大了，我只想看看他们三个现在怎样了，我去到电影院听听他们最近的故事\TU/lmtt/m/n/10.53937 |\TU/STFangsong(1)/m/n/10.53937 我是多么不希望看完终结本\TU/lmtt/m/n/10.53937 ~[] 
+[28]
+Underfull \vbox (badness 10000) detected at line 1580
  []
 
 
-Overfull \hbox (171.11821pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 我读得太快了，完全是忽略细节在追剧情。这本书是该系列信息量最大的一本，罗琳阿姨写这本书算是一种大爆发，把这么多年来的构思都了结了。[] 
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[29]
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[30]
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[31]
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[32]
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[33]
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[34]
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[35]
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1580
+ []
+
+[36]
+Overfull \hbox (155.49345pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 “ 阿 不 思 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 西 弗 勒 斯 ， 你 的 名 字 中 含 有 霍 格 沃 茨 两 位 校 长 的 名 字 。 其 中 一 个 就 是 斯 莱 特 林 的 ， 而 他 可 能 是 我 见 过 的 最 勇 敢 的 人 。 ” [] 
+ []
+
+
+Overfull \hbox (1079.5332pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 哈 利 波 特 原 本 就 是 一 套 适 合 从 \TU/lmtt/m/n/10.53937 11 \TU/FandolFang-Regular(0)/m/n/10.53937 ， \TU/lmtt/m/n/10.53937 12 \TU/FandolFang-Regular(0)/m/n/10.53937 岁 读 到 \TU/lmtt/m/n/10.53937 20 \TU/FandolFang-Regular(0)/m/n/10.53937 出 头 的 系 列 ， 我 们 有 幸 赶 上 这 个 时 代 ， 和 小 主 人 公 们 一 起 沉 淀 ， 一 起 成 长 ； 我 们 的 内 心 也 变 得 丰 满 完 整 ， 懂 得 了 友 谊 的 珍 贵 与 勇 气 的 可 贵 ， 懂 得 了 爱 与 坚 持 ！ 这 些 是 一 口 气 囫 囵 吞 枣 读 完 这 部 作 品 的 人 不 可 能 拥 有 的 感 受 ； 梦 终 将 醒 ， 让 我 们 用 十 年 的 时 间 忘 记 ， 我 们 永 远 是 麻 瓜 [] 
+ []
+
+
+Overfull \hbox (2988.47762pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 这 本 书 是 我 高 三 的 时 候 在 \TU/lmtt/m/n/10.53937 Amazon \TU/FandolFang-Regular(0)/m/n/10.53937 买 的 预 售 ， 和 一 枚 小 小 的 金 色 飞 贼 一 起 到 来 ， 用 了 \TU/lmtt/m/n/10.53937 3 \TU/FandolFang-Regular(0)/m/n/10.53937 天 读 完 ， 就 再 也 没 有 勇 气 看 第 二 遍 ， 当 时 我 好 像 还 改 了 一 条 签 名 ： 他 爱 了 莉 莉 一 辈 子 。 周 末 两 天 和 同 事 窝 在 \TU/lmtt/m/n/10.53937 311 \TU/FandolFang-Regular(0)/m/n/10.53937 连 看 了 \TU/lmtt/m/n/10.53937 8 \TU/FandolFang-Regular(0)/m/n/10.53937 部 \TU/lmtt/m/n/10.53937 HP \TU/FandolFang-Regular(0)/m/n/10.53937 电 影 ， 她 们 没 有 怎 么 读 过 原 著 ， 或 者 没 有 像 我 一 样 从 \TU/lmtt/m/n/10.53937 11 \TU/FandolFang-Regular(0)/m/n/10.53937 岁 看 第 一 本 书 到 \TU/lmtt/m/n/10.53937 21 \TU/FandolFang-Regular(0)/m/n/10.53937 岁 看 最 后 一 部 电 影 ， 看 电 影 的 时 候 我 时 常 跟 他 们 解 释 或 者 剧 透 ， 告 诉 他 们 原 著 里 这 里 不 是 这 样 的 ， 电 影 里 这 种 的 也 不 错 ， 啊 如 果 当 时 没 有 选 丹 尼 尔 也 就 不 会 有 现 在 的 矮 大 叔 之 类 了 。 直 到 最 后 一 部 ， 原 来 喉 头 发 紧 说 不 出 话 是 真 的 。 我 到 现 在 还 记 得 五 年 级 的 时 候 拿 到 第 一 本 哈 利 波 特 的 时 候 被 封 面 吸 引 的 感 觉 ， 还 记 得 我 一 个 人 去 看 最 后 一 部 电 影 的 时 候 坐 在 电 影 院 中 间 看 着 弗 雷 德 、 卢 平 、 唐 克 斯 、 还 有 斯 内 普 一 个 个 离 开 。 \TU/lmtt/m/n/10.53937 TT \TU/FandolFang-Regular(0)/m/n/10.53937 。 十 年 一 梦 。 [] 
+ []
+
+
+Overfull \hbox (72.49585pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 邓 布 利 多 死 得 值 了 ， 结 尾 够 曲 折 。 邓 布 利 多 与 格 林 德 沃 … … 一 个 世 纪 的 爱 与 恨 ， 这 么 有 料 的 \TU/lmtt/m/n/10.53937 CP \TU/FandolFang-Regular(0)/m/n/10.53937 ， 发 展 个 番 外 吧 。 [] 
+ []
+
+
+Overfull \hbox (100.16171pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 休 憩 \TU/lmtt/m/n/10.53937 33rd. \TU/FandolFang-Regular(0)/m/n/10.53937 当 初 刚 出 七 ， 我 买 来 英 文 版 艰 辛 啃 完 ， 泪 流 满 面 ， 今 天 我 第 一 次 读 中 文 版 ， 于 是 在 魔 都 旅 馆 床 上 ， 放 声 大 哭 [] 
+ []
+
+
+Overfull \hbox (3071.47543pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 基 本 上 一 如 预 想 。 罗 琳 笔 下 的 主 要 角 色 — — 除 了 铁 三 角 是 标 准 成 长 故 事 的 逐 步 成 长 外 — — 其 他 的 都 经 历 了 一 个 从 认 识 表 象 到 探 究 内 里 的 过 程 。 不 管 是 对 邓 布 利 多 完 美 形 象 的 逐 步 解 构 与 崩 塌 ， 还 是 对 斯 内 普 让 一 堆 人 不 满 让 另 一 堆 人 感 动 的 大 无 间 ， 以 致 他 父 亲 母 亲 以 及 所 有 上 一 代 人 ， 都 经 历 了 这 种 双 重 的 描 写 。 对 哈 利 心 中 权 威 的 颠 覆 （ 从 他 心 中 父 亲 的 完 美 形 象 在 回 忆 中 崩 坏 以 致 第 七 部 中 贯 穿 全 文 的 邓 布 利 多 的 过 去 ） ， 到 对 所 有 反 派 的 理 解 （ 不 管 是 斯 内 普 的 苦 恋 还 是 伏 地 魔 的 少 年 时 期 甚 至 还 包 括 了 哈 利 对 马 尔 福 厌 恶 的 总 算 消 解 ） 。 这 种 说 是 复 杂 — — 但 其 实 又 套 路 明 显 的 双 重 形 象 在 罗 琳 对 人 物 的 描 写 中 完 成 了 统 一 。 另 外 讲 ， 这 套 东 西 ， 更 适 合 的 阅 读 方 式 确 实 是 让 他 伴 随 着 自 己 的 成 长 ， 而 不 是 一 把 年 纪 了 才 带 着 成 年 人 的 眼 光 看 。 [] 
+ []
+
+Missing character: There is no └ (U+2514) in font [lmmono10-regular]:!
+Missing character: There is no ┘ (U+2518) in font [lmmono10-regular]:!
+
+Overfull \hbox (388.25552pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 // \TU/FandolFang-Regular(0)/m/n/10.53937 阿 布 思 · 西 弗 勒 斯 ， 你 的 名 字 中 含 有 霍 格 沃 茨 两 位 校 长 的 名 字 ， 其 中 一 位 就 是 斯 莱 特 林 的 ， 而 他 可 能 是 我 见 过 的 最 勇 敢 的 人 。 \TU/lmtt/m/n/10.53937 // \TU/FandolFang-Regular(0)/m/n/10.53937 这 里 安 睡 着 多 比 ， 一 个 自 由 的 小 精 灵 。 \TU/lmtt/m/n/10.53937 └(T_T;)┘[] 
+ []
+
+
+Overfull \hbox (194.22568pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 多 年 以 后 才 想 起 来 看 结 局 ， 马 上 就 沦 陷 了 。 和 初 中 时 候 一 样 ， 一 开 始 看 就 满 眼 幻 觉 ， 四 点 爬 起 来 看 书 这 种 事 情 只 有 在 这 时 候 才 能 发 生 了 。 [] 
+ []
+
+
+Overfull \hbox (33.7636pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 all as well \TU/FandolFang-Regular(0)/m/n/10.53937 ， 一 套 看 了 近 十 年 的 书 ， \TU/lmtt/m/n/10.53937 JK \TU/FandolFang-Regular(0)/m/n/10.53937 罗 琳 用 十 年 的 时 间 让 我 们 忘 记 了 自 己 永 远 只 是 一 个 麻 瓜 的 事 实 。 [] 
+ []
+
+
+Overfull \hbox (282.75642pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 每 翻 一 页 便 是 与 你 的 告 别 。 我 不 想 同 你 告 别 。 那 瑰 丽 堂 皇 的 永 不 言 弃 的 世 界 。 我 不 想 同 你 们 分 开 。 \TU/lmtt/m/n/10.53937 |  \TU/FandolFang-Regular(0)/m/n/10.53937 消 失 的 东 西 去 了 哪 里 。 化 为 虚 无 。 或 者 说 。 化 为 所 有 。 [] 
+ []
+
+
+Overfull \hbox (1300.8602pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 几 年 后 重 新 看 了 最 后 的 几 章 ， 在 这 热 得 要 死 的 梅 雨 终 焉 ， 在 东 瀛 的 小 小 房 子 中 依 旧 看 得 热 泪 盈 眶 ， 哈 利 是 真 正 的 领 袖 ， 真 正 的 领 袖 并 不 是 充 满 贪 欲 的 权 利 追 求 者 ， 而 是 愿 意 站 在 最 前 面 承 受 所 有 挑 战 与 试 炼 ， 并 不 奢 求 回 报 的 人 ， 充 满 同 理 心 ， 坚 信 爱 与 真 理 的 力 量 。 爱 与 勇 气 才 是 最 大 的 魔 法 ， 帮 助 我 们 征 服 死 亡 ， 越 过 重 重 的 试 探 ， 就 像 主 耶 稣 基 督 那 般 ， 终 能 得 胜 成 王 [] 
+ []
+
+Missing character: There is no 沒 (U+6C92) in font [FandolFang-Regular.otf]/OT:language=dflt;!
+
+Overfull \hbox (50.36308pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 我 觉 得 \TU/lmtt/m/n/10.53937 2018 \TU/FandolFang-Regular(0)/m/n/10.53937 年 \TU/lmtt/m/n/10.53937 1 \TU/FandolFang-Regular(0)/m/n/10.53937 月 ， 我 打 开 豆 瓣 读 书 的 年 终 总 结 页 面 ， 可 能 会 发 现 \TU/lmtt/m/n/10.53937 17 \TU/FandolFang-Regular(0)/m/n/10.53937 年 我 一 共 读 过 七 本 书 ， 哈 利 波 特 \TU/lmtt/m/n/10.53937 1-7 \TU/FandolFang-Regular(0)/m/n/10.53937 。 。 [] 
+ []
+
+
+Overfull \hbox (1035.26787pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 赶 在 去 大 阪 的 前 一 天 重 温 完 了 这 套 书 。 为 了 把 大 布 局 收 尾 ， 罗 琳 硬 生 生 编 出 两 个 “ \TU/lmtt/m/n/10.53937 N \TU/FandolFang-Regular(0)/m/n/10.53937 大 ” 设 定 ， 这 是 让 线 索 合 理 化 的 最 简 单 技 巧 。 但 能 完 成 得 不 崩 已 经 很 厉 害 。 最 喜 欢 的 角 色 之 一 死 了 。 主 次 人 物 的 上 下 限 也 一 直 在 约 束 。 但 当 我 走 进 \TU/lmtt/m/n/10.53937 USJ \TU/FandolFang-Regular(0)/m/n/10.53937 的 霍 格 莫 德 村 ， 真 像 回 了 家 的 感 觉 。 这 时 才 发 现 任 何 写 作 技 巧 ， 都 不 如 情 感 。 [] 
+ []
+
+
+Overfull \hbox (50.36319pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 我 用 六 个 小 时 读 完 了 《 哈 利 波 特 与 死 圣 》 。 中 文 版 的 。 中 间 只 站 起 来 喝 了 一 口 水 。 合 上 书 时 人 都 要 虚 脱 了 。 [] 
+ []
+
+[37]
+Overfull \hbox (1428.12306pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 2020 \TU/FandolFang-Regular(0)/m/n/10.53937 年 重 读 \TU/lmtt/m/n/10.53937 08: \TU/FandolFang-Regular(0)/m/n/10.53937 故 事 结 束 了 ， 难 过 的 时 候 我 会 拿 出 来 读 读 ， 因 为 还 相 信 某 些 就 像 书 里 所 说 早 已 被 耻 笑 的 东 西 ， 是 因 为 这 些 才 想 在 这 样 艰 难 的 人 生 里 活 下 去 。 某 些 \TU/lmtt/m/n/10.53937 you know who \TU/FandolFang-Regular(0)/m/n/10.53937 们 永 远 也 无 法 理 解 的 东 西 ， 某 些 精 致 的 利 己 主 义 者 们 ， 强 权 者 的 走 狗 们 无 法 理 解 的 东 西 ， 他 们 耻 笑 这 个 ， 更 相 信 《 黑 暗 森 林 》 那 套 ， 但 他 们 永 远 不 懂 ， 这 时 候 无 法 平 静 的 心 ， 感 谢 罗 琳 带 来 的 慰 藉 ， 记 住 爱 ， 总 有 希 望 的 。 [] 
+ []
+
+
+Overfull \hbox (1201.26308pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 在 哈 利 三 人 组 开 始 毫 无 头 绪 的 逃 亡 之 后 ， 作 者 又 试 图 不 断 用 圣 器 魂 器 这 类 名 词 混 淆 读 者 的 思 路 ， 但 最 终 ， 还 是 以 哈 利 在 决 斗 中 消 灭 了 伏 地 魔 而 告 终 ， 这 其 实 是 一 个 在 第 一 部 开 始 就 注 定 了 的 结 局 。 可 恨 的 是 罗 琳 还 拉 了 很 多 无 辜 的 配 角 作 牺 牲 品 ， 其 中 韦 斯 莱 家 那 对 可 爱 的 双 胞 胎 一 死 一 残 ， 令 人 很 不 满 意 ！ 倒 是 斯 内 普 ， 终 于 没 有 让 我 的 预 感 成 空 \TU/lmtt/m/n/10.53937 ~~``[] 
+ []
+
+
+Overfull \hbox (6.09781pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 很 高 兴 我 们 能 和 全 世 界 的 孩 子 一 起 见 证 我 们 童 年 的 快 乐 和 回 忆 ， 以 及 一 起 画 上 的 还 算 圆 满 的 句 号 。 [] 
+ []
+
+
+Overfull \hbox (504.08328pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 要 是 所 有 的 书 我 都 能 读 得 那 么 快 就 好 了 ： 去 大 马 出 差 了 四 天 ， 等 飞 机 看 ， 吃 饭 看 ， 坐 车 看 ， 等 人 看 ， 工 作 完 了 回 宾 馆 继 续 看 ， 看 着 看 着 六 百 页 就 看 完 了 ， 回 到 曼 谷 正 好 周 三 电 影 半 价 日 ， \TU/lmtt/m/n/10.53937 good timing~~~[] 
+ []
+
+
+Overfull \hbox (609.21352pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 2009.02.12. \TU/FandolFang-Regular(0)/m/n/10.53937 和 这 套 书 里 的 主 人 公 一 起 长 大 了 。 在 小 说 全 部 读 完 之 后 ， 有 一 种 终 于 长 大 和 童 年 告 别 的 不 舍 感 。 故 事 里 的 大 家 都 有 像 浴 火 重 生 了 ， 就 像 邓 不 利 多 的 凤 凰 。 虽 然 有 的 人 死 去 ， 但 又 有 人 新 生 ， 还 是 \TU/lmtt/m/n/10.53937 Happy Ending \TU/FandolFang-Regular(0)/m/n/10.53937 好 。 [] 
+ []
+
+
+Overfull \hbox (33.76366pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 总 感 觉 伏 地 魔 太 蠢 了 ， 也 罢 ， 谁 让 他 是 儿 童 文 学 里 的 坏 人 呢 。 。 。 \TU/lmtt/m/n/10.53937 7 \TU/FandolFang-Regular(0)/m/n/10.53937 本 哈 利 波 特 ， 到 此 ， 终 于 全 部 读 完 了 [] 
+ []
+
+
+Overfull \hbox (1245.52847pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 二 刷 。 听 到 快 大 决 战 的 部 分 已 经 半 夜 ， 想 着 不 看 完 今 晚 是 睡 不 着 了 ， 就 拿 起 手 机 开 始 接 着 看 。 真 的 很 感 谢 罗 琳 给 的 这 个 结 局 ， 无 论 前 面 剧 情 多 么 坑 爹 节 奏 多 么 拖 沓 。 我 深 深 喜 欢 过 的 那 么 几 部 系 列 长 篇 只 有 罗 琳 起 码 给 了 一 个 不 敷 衍 的 结 局 ， 一 个 真 正 地 填 了 主 要 坑 的 结 局 。 又 给 后 续 的 故 事 留 了 可 能 。 希 望 罗 琳 长 命 百 岁 地 写 下 去 ， 让 这 个 魔 法 世 界 无 限 延 伸 。 [] 
+ []
+
+[38]
+Overfull \hbox (17.16415pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 悲 情 的 斯 内 普 。 “ 那 我 的 灵 魂 呢 ？ 邓 布 利 多 ？ 我 的 呢 ” 当 属 全 书 最 有 分 量 的 话 ， 沉 重 地 压 在 我 心 上 。 [] 
+ []
+
+
+Overfull \hbox (398.95302pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 2010 \TU/FandolFang-Regular(0)/m/n/10.53937 年 我 最 期 盼 的 一 部 电 影 就 是 哈 \TU/lmtt/m/n/10.53937 7 \TU/FandolFang-Regular(0)/m/n/10.53937 ， 因 为 这 么 多 年 ， 他 们 长 大 了 ， 我 也 长 大 了 ， 我 只 想 看 看 他 们 三 个 现 在 怎 样 了 ， 我 去 到 电 影 院 听 听 他 们 最 近 的 故 事 \TU/lmtt/m/n/10.53937 | \TU/FandolFang-Regular(0)/m/n/10.53937 我 是 多 么 不 希 望 看 完 终 结 本 \TU/lmtt/m/n/10.53937 ~[] 
+ []
+
+
+Overfull \hbox (249.5574pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 我 读 得 太 快 了 ， 完 全 是 忽 略 细 节 在 追 剧 情 。 这 本 书 是 该 系 列 信 息 量 最 大 的 一 本 ， 罗 琳 阿 姨 写 这 本 书 算 是 一 种 大 爆 发 ， 把 这 么 多 年 来 的 构 思 都 了 结 了 。 [] 
  []
 
 Missing character: There is no ಠ (U+0CA0) in font [lmmono10-regular]:!
 Missing character: There is no ಠ (U+0CA0) in font [lmmono10-regular]:!
 
-Overfull \hbox (683.81688pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 原作文字的力量远远超过电影的影像。爱与勇气能够战胜死亡，这种仿佛说腻了的陈腔滥调在经历了生离死别之后，随着少年的成长而愈发的闪光。在那么多离开的生命之中最难过的是多比，一个自由的小精灵。这么多年过去了，而霍格沃滋将永远守卫着一方净土。[] 
+Overfull \hbox (825.00735pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 原 作 文 字 的 力 量 远 远 超 过 电 影 的 影 像 。 爱 与 勇 气 能 够 战 胜 死 亡 ， 这 种 仿 佛 说 腻 了 的 陈 腔 滥 调 在 经 历 了 生 离 死 别 之 后 ， 随 着 少 年 的 成 长 而 愈 发 的 闪 光 。 在 那 么 多 离 开 的 生 命 之 中 最 难 过 的 是 多 比 ， 一 个 自 由 的 小 精 灵 。 这 么 多 年 过 去 了 ， 而 霍 格 沃 滋 将 永 远 守 卫 着 一 方 净 土 。 [] 
  []
 
 
-Overfull \hbox (23.22441pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 这本哈利波特是我唯一一本花了一年时间才读完的……因为中途是高考，加上我对哈利波特的感情在坠机般的下降[] 
+Overfull \hbox (83.56223pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 这 本 哈 利 波 特 是 我 唯 一 一 本 花 了 一 年 时 间 才 读 完 的 … … 因 为 中 途 是 高 考 ， 加 上 我 对 哈 利 波 特 的 感 情 在 坠 机 般 的 下 降 [] 
  []
 
 
-Overfull \hbox (421.2282pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 补标。十年前吧。当时特别喜欢霍格沃茨保卫战，里面有太多太多的细节了，韦斯莱家真的是珍宝一样的存在。唯一的不解就是为什么要把邓布利多的黑历史与格林德沃讲出来，现在发现\TU/lmtt/m/n/10.53937 ......\TU/STFangsong(1)/m/n/10.53937 都是爱情！[] 
+Overfull \hbox (28.2305pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 书 确 实 比 电 影 精 彩 多 了 ， 不 过 偶 们 不 能 拿 书 要 求 电 影 不 是 。 。 。 后 三 部 很 好 ， 链 接 成 一 个 宏 大 的 故 事 ～ [] 
  []
 
 
-Overfull \hbox (1600.55305pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 邓布列多是个计划通啊 和斯内普部署的计划一步一步实现 甚至牺牲自己去打败伏地魔 而哈利在这个过程中也着实很痛苦 因为想不到邓布列多到底要干什么 还好赫敏一直陪着他 原著中的斯内普的形象实在难看 但好在电影中的演员发挥了人格魅力 虽然电影中的金妮 我也不喜欢 说好的校花呢 纳威自霍格沃茨一战之后也名垂青史 这让隆巴顿夫人很骄傲了吧 而他还在学校里当草药科教授 很棒了 而德拉科家也会与波特家纠缠下去吧 但他们不会忘记哈利救了马尔福两次[] 
+Overfull \hbox (526.21599pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 补 标 。 十 年 前 吧 。 当 时 特 别 喜 欢 霍 格 沃 茨 保 卫 战 ， 里 面 有 太 多 太 多 的 细 节 了 ， 韦 斯 莱 家 真 的 是 珍 宝 一 样 的 存 在 。 唯 一 的 不 解 就 是 为 什 么 要 把 邓 布 利 多 的 黑 历 史 与 格 林 德 沃 讲 出 来 ， 现 在 发 现 \TU/lmtt/m/n/10.53937 ...... \TU/FandolFang-Regular(0)/m/n/10.53937 都 是 爱 情 ！ [] 
  []
 
 
-Overfull \hbox (2918.11755pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 意犹未尽。几个比较意外的点：与德思礼一家分别时刻，达力意外的感恩；赫敏的\TU/lmtt/m/n/10.53937 S.P.E.W\TU/STFangsong(1)/m/n/10.53937 终于在最后一刻发挥了作用，多比的牺牲也让人异常心痛；纳威·隆巴顿带给人太多惊喜，从第一部的冒失鬼逐步成长为咒语不落下风、关键时刻斩断蛇头的关键人物，最终成为教师，真的是没有让他父母失望；斯内普的身上隐藏了太多复杂的情感，让他愈发自我封闭，只有在邓布利多面前才能倾诉，故事到最后用整整一章为他洗白，也是给他一言难尽的一生划上了句号吧；哈利与伏地魔之间的联系略微有些复杂，也直接导致了双方的对垒与胜负态势无法看清，故事依旧沿用了第一部“唯有不去想、不打算利用它的人，才能真正得到它”的理念，虽然有些不新鲜，倒也是真理；一直以为哈利会跟赫敏在一起，结果居然是金妮，孩子则起名叫了阿不思·西弗勒斯，也是意义十足了\TU/lmtt/m/n/10.53937 ...[] 
- []
-
-[7]
-Overfull \hbox (156.22606pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 终于重读完了，啊，小时候记忆深刻的点（\TU/lmtt/m/n/10.53937 which is\TU/STFangsong(1)/m/n/10.53937 哭点），仍然让人热泪盈眶啊，就是纳威，我是真的很高兴看到平凡的小人物的伟大瞬间啊[] 
+Overfull \hbox (1843.11087pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 邓 布 列 多 是 个 计 划 通 啊   和 斯 内 普 部 署 的 计 划 一 步 一 步 实 现   甚 至 牺 牲 自 己 去 打 败 伏 地 魔   而 哈 利 在 这 个 过 程 中 也 着 实 很 痛 苦   因 为 想 不 到 邓 布 列 多 到 底 要 干 什 么   还 好 赫 敏 一 直 陪 着 他   原 著 中 的 斯 内 普 的 形 象 实 在 难 看   但 好 在 电 影 中 的 演 员 发 挥 了 人 格 魅 力   虽 然 电 影 中 的 金 妮   我 也 不 喜 欢   说 好 的 校 花 呢   纳 威 自 霍 格 沃 茨 一 战 之 后 也 名 垂 青 史   这 让 隆 巴 顿 夫 人 很 骄 傲 了 吧   而 他 还 在 学 校 里 当 草 药 科 教 授   很 棒 了   而 德 拉 科 家 也 会 与 波 特 家 纠 缠 下 去 吧   但 他 们 不 会 忘 记 哈 利 救 了 马 尔 福 两 次 [] 
  []
 
 
-Overfull \hbox (93.24269pt too wide) in paragraph at lines 496--496
-[]\TU/lmtt/m/n/10.53937 2000\TU/STFangsong(1)/m/n/10.53937 年出版，七年后完结。我却故意把整个故事的结局又拖了六年。不过，一切的冒险还是成长都终于结束了。\TU/lmtt/m/n/10.53937 Blessing u ...[] 
+Overfull \hbox (3326.00131pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 意 犹 未 尽 。 几 个 比 较 意 外 的 点 ： 与 德 思 礼 一 家 分 别 时 刻 ， 达 力 意 外 的 感 恩 ； 赫 敏 的 \TU/lmtt/m/n/10.53937 S.P.E.W \TU/FandolFang-Regular(0)/m/n/10.53937 终 于 在 最 后 一 刻 发 挥 了 作 用 ， 多 比 的 牺 牲 也 让 人 异 常 心 痛 ； 纳 威 · 隆 巴 顿 带 给 人 太 多 惊 喜 ， 从 第 一 部 的 冒 失 鬼 逐 步 成 长 为 咒 语 不 落 下 风 、 关 键 时 刻 斩 断 蛇 头 的 关 键 人 物 ， 最 终 成 为 教 师 ， 真 的 是 没 有 让 他 父 母 失 望 ； 斯 内 普 的 身 上 隐 藏 了 太 多 复 杂 的 情 感 ， 让 他 愈 发 自 我 封 闭 ， 只 有 在 邓 布 利 多 面 前 才 能 倾 诉 ， 故 事 到 最 后 用 整 整 一 章 为 他 洗 白 ， 也 是 给 他 一 言 难 尽 的 一 生 划 上 了 句 号 吧 ； 哈 利 与 伏 地 魔 之 间 的 联 系 略 微 有 些 复 杂 ， 也 直 接 导 致 了 双 方 的 对 垒 与 胜 负 态 势 无 法 看 清 ， 故 事 依 旧 沿 用 了 第 一 部 “ 唯 有 不 去 想 、 不 打 算 利 用 它 的 人 ， 才 能 真 正 得 到 它 ” 的 理 念 ， 虽 然 有 些 不 新 鲜 ， 倒 也 是 真 理 ； 一 直 以 为 哈 利 会 跟 赫 敏 在 一 起 ， 结 果 居 然 是 金 妮 ， 孩 子 则 起 名 叫 了 阿 不 思 · 西 弗 勒 斯 ， 也 是 意 义 十 足 了 \TU/lmtt/m/n/10.53937 ...[] 
  []
 
 
-Overfull \hbox (58.33632pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 出一本，买一本，每年暑假拿出来重温一遍。儿童文学的老师说，它不具有文学性，但那又怎样呢？斯内普真是大逆转啊\TU/lmtt/m/n/10.53937 ~[] 
+Overfull \hbox (227.42467pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 终 于 重 读 完 了 ， 啊 ， 小 时 候 记 忆 深 刻 的 点 （ \TU/lmtt/m/n/10.53937 which is \TU/FandolFang-Regular(0)/m/n/10.53937 哭 点 ） ， 仍 然 让 人 热 泪 盈 眶 啊 ， 就 是 纳 威 ， 我 是 真 的 很 高 兴 看 到 平 凡 的 小 人 物 的 伟 大 瞬 间 啊 [] 
  []
 
 
-Overfull \hbox (222.12354pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 童年结束了。虽然第七部构思很奇妙，布局也很优秀，但是总觉得很遗憾，哪里缺了一点，反而没有小时候的感动。可能变的不是\TU/lmtt/m/n/10.53937 harrypotter\TU/STFangsong(1)/m/n/10.53937 ，变的是我自己[] 
+Overfull \hbox (149.96024pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 2000 \TU/FandolFang-Regular(0)/m/n/10.53937 年 出 版 ， 七 年 后 完 结 。 我 却 故 意 把 整 个 故 事 的 结 局 又 拖 了 六 年 。 不 过 ， 一 切 的 冒 险 还 是 成 长 都 终 于 结 束 了 。 \TU/lmtt/m/n/10.53937 Blessing u ...[] 
  []
 
 
-Overfull \hbox (3.50523pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 补，我读书很少哭，但第一遍读到海格抱着哈利走在草地上的情节，不禁流泪。书上还留着十几年前的泪痕。[] 
+Overfull \hbox (122.29443pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 出 一 本 ， 买 一 本 ， 每 年 暑 假 拿 出 来 重 温 一 遍 。 儿 童 文 学 的 老 师 说 ， 它 不 具 有 文 学 性 ， 但 那 又 怎 样 呢 ？ 斯 内 普 真 是 大 逆 转 啊 \TU/lmtt/m/n/10.53937 ~[] 
  []
 
 
-Overfull \hbox (1719.57416pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 死亡圣器的故事是完满的结局，那么多鲜活可爱的角色，那么多九曲回肠的传奇，伴随着自高自大丑态尽显的伏地魔找到了自己最好的归宿，铁三角的崩解重塑、邓校的运筹帷幄、双子的无畏、多比的忠诚、不被强势左右的纳威与格兰芬多之剑…如果不是黑魔王的一路走低和毫无下限，我想这本书、这系列就真的能够完美无憾了。很少有作者能够在七部连续作品中将高水平一以贯之，罗姨做到了。我想不仅是因为她的无出其右的文学素养，更是因为她热爱\TU/lmtt/m/n/10.53937 HP\TU/STFangsong(1)/m/n/10.53937 的程度超过了所有人。霍格沃兹，\TU/lmtt/m/n/10.53937 Always.[] 
+Overfull \hbox (299.3559pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 童 年 结 束 了 。 虽 然 第 七 部 构 思 很 奇 妙 ， 布 局 也 很 优 秀 ， 但 是 总 觉 得 很 遗 憾 ， 哪 里 缺 了 一 点 ， 反 而 没 有 小 时 候 的 感 动 。 可 能 变 的 不 是 \TU/lmtt/m/n/10.53937 harrypotter \TU/FandolFang-Regular(0)/m/n/10.53937 ， 变 的 是 我 自 己 [] 
  []
 
 
-Overfull \hbox (52.80315pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 宏大的多卷魔咒书终于落幕了，每个人物都有详细且合理的交待安排，哈利也成家生子了。。。不知道会不会有续集呢？[] 
+Overfull \hbox (61.42953pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 补 ， 我 读 书 很 少 哭 ， 但 第 一 遍 读 到 海 格 抱 着 哈 利 走 在 草 地 上 的 情 节 ， 不 禁 流 泪 。 书 上 还 留 着 十 几 年 前 的 泪 痕 。 [] 
  []
 
 
-Overfull \hbox (9.0384pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 终于狠下心鼓起勇气把最后的大决战看了，果然电影还是只能自己在屋里下下来看，看书时候哭得那个造孽哟\TU/lmtt/m/n/10.53937 ~[] 
+Overfull \hbox (1981.44037pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 死 亡 圣 器 的 故 事 是 完 满 的 结 局 ， 那 么 多 鲜 活 可 爱 的 角 色 ， 那 么 多 九 曲 回 肠 的 传 奇 ， 伴 随 着 自 高 自 大 丑 态 尽 显 的 伏 地 魔 找 到 了 自 己 最 好 的 归 宿 ， 铁 三 角 的 崩 解 重 塑 、 邓 校 的 运 筹 帷 幄 、 双 子 的 无 畏 、 多 比 的 忠 诚 、 不 被 强 势 左 右 的 纳 威 与 格 兰 芬 多 之 剑 … 如 果 不 是 黑 魔 王 的 一 路 走 低 和 毫 无 下 限 ， 我 想 这 本 书 、 这 系 列 就 真 的 能 够 完 美 无 憾 了 。 很 少 有 作 者 能 够 在 七 部 连 续 作 品 中 将 高 水 平 一 以 贯 之 ， 罗 姨 做 到 了 。 我 想 不 仅 是 因 为 她 的 无 出 其 右 的 文 学 素 养 ， 更 是 因 为 她 热 爱 \TU/lmtt/m/n/10.53937 HP \TU/FandolFang-Regular(0)/m/n/10.53937 的 程 度 超 过 了 所 有 人 。 霍 格 沃 兹 ， \TU/lmtt/m/n/10.53937 Always.[] 
+ []
+
+[39]
+Overfull \hbox (116.76126pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 宏 大 的 多 卷 魔 咒 书 终 于 落 幕 了 ， 每 个 人 物 都 有 详 细 且 合 理 的 交 待 安 排 ， 哈 利 也 成 家 生 子 了 。 。 。 不 知 道 会 不 会 有 续 集 呢 ？ [] 
  []
 
 
-Overfull \hbox (13.36482pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 好神奇的书～～～看了书再看电影更有感觉～～～哈利系列都不错，可惜我这次又是慢热型的，看得也慢。。。[] 
- []
-
-[8]
-Overfull \hbox (683.81688pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 故事的终结，哈利的十七岁和我的十七岁，一起结束了。我还记得中译版没出来我不自量力啃了几页原文，因为当时英文不济，暑假里又转而追网上民翻；因为民翻压力而比预计时间提前出版的实体版错误不少，可我还是一出版就跑去书城买，买回来却不忍心翻开。[] 
+Overfull \hbox (66.9627pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 终 于 狠 下 心 鼓 起 勇 气 把 最 后 的 大 决 战 看 了 ， 果 然 电 影 还 是 只 能 自 己 在 屋 里 下 下 来 看 ， 看 书 时 候 哭 得 那 个 造 孽 哟 \TU/lmtt/m/n/10.53937 ~[] 
  []
 
 
-Overfull \hbox (176.65141pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 跟了这么多年，哈利\TU/lmtt/m/n/10.53937 .\TU/STFangsong(1)/m/n/10.53937 波特系列总算尘埃落定。最后一本少了些悬念，最后的决战也比较仓促，不知是期望过高还是怎地。反正觉得不如前几本精彩。[] 
+Overfull \hbox (825.00735pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 故 事 的 终 结 ， 哈 利 的 十 七 岁 和 我 的 十 七 岁 ， 一 起 结 束 了 。 我 还 记 得 中 译 版 没 出 来 我 不 自 量 力 啃 了 几 页 原 文 ， 因 为 当 时 英 文 不 济 ， 暑 假 里 又 转 而 追 网 上 民 翻 ； 因 为 民 翻 压 力 而 比 预 计 时 间 提 前 出 版 的 实 体 版 错 误 不 少 ， 可 我 还 是 一 出 版 就 跑 去 书 城 买 ， 买 回 来 却 不 忍 心 翻 开 。 [] 
  []
 
 
-Overfull \hbox (1286.45853pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 读过了之后有一点小失望。也许原版的能给人更美好的阅读感？所以还是需要好好修炼英语\TU/lmtt/m/n/10.53937 ==\TU/STFangsong(1)/m/n/10.53937 粉丝们猜对了结尾的大半，而过程依然不可能被他们全部猜中的。一些章节读起来怪怪的，一些章节读起来伤心……但是再也不像前六部那样，因为开心的章节实在是太少了。这就像是世界杯小组赛一样，你早早就知道有那么一场决赛，立志要争到雷米特杯可是那场比赛比起小组选拔赛看起来实在是索然无味。[] 
+Overfull \hbox (255.09056pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 跟 了 这 么 多 年 ， 哈 利 \TU/lmtt/m/n/10.53937 . \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 系 列 总 算 尘 埃 落 定 。 最 后 一 本 少 了 些 悬 念 ， 最 后 的 决 战 也 比 较 仓 促 ， 不 知 是 期 望 过 高 还 是 怎 地 。 反 正 觉 得 不 如 前 几 本 精 彩 。 [] 
  []
 
 
-Overfull \hbox (79.26227pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 这本书，它可以更好；但作者是有心无力还是心血都舍不得投了呢；除了斯内普教授谜底揭晓，没有亮点，结构和逻辑水准\TU/lmtt/m/n/10.53937 ...[] 
+Overfull \hbox (1500.05438pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 读 过 了 之 后 有 一 点 小 失 望 。 也 许 原 版 的 能 给 人 更 美 好 的 阅 读 感 ？ 所 以 还 是 需 要 好 好 修 炼 英 语 \TU/lmtt/m/n/10.53937 == \TU/FandolFang-Regular(0)/m/n/10.53937 粉 丝 们 猜 对 了 结 尾 的 大 半 ， 而 过 程 依 然 不 可 能 被 他 们 全 部 猜 中 的 。 一 些 章 节 读 起 来 怪 怪 的 ， 一 些 章 节 读 起 来 伤 心 … … 但 是 再 也 不 像 前 六 部 那 样 ， 因 为 开 心 的 章 节 实 在 是 太 少 了 。 这 就 像 是 世 界 杯 小 组 赛 一 样 ， 你 早 早 就 知 道 有 那 么 一 场 决 赛 ， 立 志 要 争 到 雷 米 特 杯 可 是 那 场 比 赛 比 起 小 组 选 拔 赛 看 起 来 实 在 是 索 然 无 味 。 [] 
  []
 
 
-Overfull \hbox (772.55309pt too wide) in paragraph at lines 496--496
-[]\TU/STFangsong(1)/m/n/10.53937 终于完结了，看的心头一揪一揪。我心爱的双胞胎和斯内普。。。人物众多，看的有点晕，想构架起庞大的人物框架但是对人物的描写又单薄了点。结局是翻了几个身终于赢了可是我觉得伏地魔才不会那么笨呢，啊啊啊还是要高喊：还我斯内普！哈利的二儿子叫阿布思·西弗勒斯，心酸[] 
+Overfull \hbox (924.60446pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 终 于 完 结 了 ， 看 的 心 头 一 揪 一 揪 。 我 心 爱 的 双 胞 胎 和 斯 内 普 。 。 。 人 物 众 多 ， 看 的 有 点 晕 ， 想 构 架 起 庞 大 的 人 物 框 架 但 是 对 人 物 的 描 写 又 单 薄 了 点 。 结 局 是 翻 了 几 个 身 终 于 赢 了 可 是 我 觉 得 伏 地 魔 才 不 会 那 么 笨 呢 ， 啊 啊 啊 还 是 要 高 喊 ： 还 我 斯 内 普 ！ 哈 利 的 二 儿 子 叫 阿 布 思 · 西 弗 勒 斯 ， 心 酸 [] 
  []
 
-[9]
-Overfull \hbox (1356.9774pt too wide) in paragraph at lines 496--496
-[]\TU/lmtt/m/n/10.53937 7\TU/STFangsong(1)/m/n/10.53937 的结构果然跟之前很不相同\TU/lmtt/m/n/10.53937 ~\TU/STFangsong(1)/m/n/10.53937 话说到了最后一本告诉我们其实这是一个毁灭\TU/lmtt/m/n/10.53937 7\TU/STFangsong(1)/m/n/10.53937 个龙珠消除一个愿望的故事是怎样\TU/lmtt/m/n/10.53937 =-=~\TU/STFangsong(1)/m/n/10.53937 以及不受诱惑的佩戴魂器的段落怎么那么魔戒\TU/lmtt/m/n/10.53937 =-=~~\TU/STFangsong(1)/m/n/10.53937 以及，\TU/lmtt/m/n/10.53937 J.K.\TU/STFangsong(1)/m/n/10.53937 罗琳就只是想写死卢平夫妇啦，果然生孩子也是死亡\TU/lmtt/m/n/10.53937 flag=-=~~\TU/STFangsong(1)/m/n/10.53937 又，好人王斯内普呀，纯爱故事呀，期待最后一部电影对他的表现。。。。。好吧，结果最后的最后，我还是把这个系列看完了，其实最后一本没有想象地那么糟\TU/lmtt/m/n/10.53937 orz~\TU/STFangsong(1)/m/n/10.53937 。。。。。[] 
+[40]
+Overfull \hbox (11.63098pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 对 于 赫 敏 没 有 和 马 尔 福 在 一 起 ， 我 耿 耿 于 怀 。 而 且 最 后 对 马 尔 福 德 归 宿 寥 寥 带 过 ， 让 我 有 点 伤 心 哪 \TU/lmtt/m/n/10.53937 ~[] 
  []
 
-[10] (./main.aux)
+
+Overfull \hbox (393.41989pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 最 后 一 本 啦 … … 当 时 第 一 时 间 冲 到 书 店 去 买 ， 买 回 来 还 不 敢 看 ， 因 为 看 完 ， 就 再 也 没 有 续 集 可 期 待 了 … 现 在 连 电 影 的 最 后 一 集 都 要 上 映 了 ， 因 为 签 证 问 题 不 能 去 看 首 映 礼 好 悲 催 … [] 
+ []
+
+
+Overfull \hbox (105.69492pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 信 息 量 最 大 的 一 本 ， 很 多 内 容 突 然 展 开 ， 匆 匆 交 代 ， 不 如 之 前 严 谨 。 不 过 依 旧 是 个 不 错 的 结 局 ， 文 字 比 电 影 激 动 人 心 。 [] 
+ []
+
+Missing character: There is no 淚 (U+6DDA) in font [FandolFang-Regular.otf]/OT:language=dflt;!
+
+Overfull \hbox (2496.02542pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 全 部 看 完 了 \TU/lmtt/m/n/10.53937 ~~ \TU/FandolFang-Regular(0)/m/n/10.53937 最 喜 欢 第 三 部 和 这 个 最 后 一 部 。 第 三 部 胜 在 结 构 ， 最 后 这 部 胜 在 节 奏 。 总 算 让 我 感 觉 不 拖 沓 了 呀 \TU/lmtt/m/n/10.53937 ~~ \TU/FandolFang-Regular(0)/m/n/10.53937 看 完 对 邓 布 利 多 还 是 心 存 疑 惑 。 一 直 到 哈 利 被 伏 地 魔 击 中 ， 在 国 王 十 字 车 站 里 与 邓 布 利 多 的 交 谈 之 前 ， 邓 布 利 多 的 形 象 才 在 我 心 里 正 面 了 一 点 。 不 然 我 实 在 觉 得 他 更 像 是 一 个 谋 略 家 、 政 治 家 。 。 。 为 了 打 败 伏 地 魔 ， 他 身 上 依 然 有 少 年 时 候 的 气 息 ： 为 了 更 大 的 利 益 。 而 现 在 作 者 的 处 理 似 乎 使 邓 布 利 多 死 后 明 白 了 一 起 ， 开 悟 了 ， 或 者 说 是 他 死 的 那 一 刻 ？ 在 哈 利 波 特 的 世 界 中 ， 人 死 后 还 在 领 悟 生 前 吗 ？ 邓 布 利 多 的 确 是 一 个 平 凡 人 。 最 后 一 个 问 题 就 是 ， 为 了 世 界 和 平 的 利 益 ， 可 以 牺 牲 一 两 个 人 性 命 吗 ？ [] 
+ []
+
+
+Overfull \hbox (636.87949pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 又 翻 出 来 看 了 一 遍 ， 斯 内 普 的 回 忆 真 是 最 后 一 本 的 精 髓 所 在 。 虽 然 谈 不 上 哈 利 迷 ， 但 是 七 本 书 我 也 完 整 看 了 下 来 ， 有 四 本 我 买 过 的 更 看 不 止 一 遍 。 魔 法 界 发 生 的 那 么 大 的 事 ， 麻 瓜 们 还 这 么 淡 定 若 素 的 像 什 么 都 没 发 生 过 一 样 ， 哎 。 [] 
+ []
+
+[41]
+Overfull \hbox (349.15448pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 一 部 不 错 的 儿 童 读 物 ， 不 过 我 现 在 已 经 超 过 了 看 这 部 书 的 年 龄 了 ， 哈 利 波 特 七 部 我 都 看 了 ， 很 精 彩 。 可 惜 \TU/lmtt/m/n/10.53937 jk \TU/FandolFang-Regular(0)/m/n/10.53937 罗 琳 已 经 走 了 ， 不 然 他 一 定 能 带 来 更 多 更 精 彩 的 作 品 的 ， 呵 呵 [] 
+ []
+
+
+Overfull \hbox (199.75883pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 其 实 那 个 结 局 我 并 不 是 很 喜 欢 ， 我 只 是 庆 幸 我 从 第 一 本 开 始 还 是 小 学 生 的 时 候 就 心 心 念 念 喜 欢 的 斯 内 普 他 真 的 从 头 到 脚 都 是 让 我 喜 欢 的 \TU/lmtt/m/n/10.53937 T_T[] 
+ []
+
+
+Overfull \hbox (393.4198pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 早 早 地 在 \TU/lmtt/m/n/10.53937 99 \TU/FandolFang-Regular(0)/m/n/10.53937 上 预 订 了 它 。 寄 来 的 时 候 却 等 了 好 多 天 才 打 开 来 看 ， ， 因 为 一 直 骗 自 己 ： 只 要 我 没 看 完 它 ， \TU/lmtt/m/n/10.53937 HP \TU/FandolFang-Regular(0)/m/n/10.53937 就 没 有 完 结 。 还 好 ， 现 在 能 心 平 气 和 地 去 观 看 了 \TU/lmtt/m/n/10.53937 H7 \TU/FandolFang-Regular(0)/m/n/10.53937 下 的 首 映 场 而 未 落 泪 。 [] 
+ []
+
+
+Overfull \hbox (39.2967pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 第 七 部 \TU/lmtt/m/n/10.53937 !! \TU/FandolFang-Regular(0)/m/n/10.53937 盼 星 星 \TU/lmtt/m/n/10.53937 , \TU/FandolFang-Regular(0)/m/n/10.53937 盼 月 亮 \TU/lmtt/m/n/10.53937 , \TU/FandolFang-Regular(0)/m/n/10.53937 总 算 是 盼 来 了 ， 不 过 感 觉 第 七 部 的 翻 译 有 点 搞 笑 \TU/lmtt/m/n/10.53937 !" \TU/FandolFang-Regular(0)/m/n/10.53937 你 太 有 才 了 \TU/lmtt/m/n/10.53937 ! \TU/FandolFang-Regular(0)/m/n/10.53937 说 时 迟 \TU/lmtt/m/n/10.53937 , \TU/FandolFang-Regular(0)/m/n/10.53937 那 时 快 \TU/lmtt/m/n/10.53937 !"[] 
+ []
+
+[42]
+Overfull \hbox (266.1569pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 哈 \TU/lmtt/m/n/10.53937 7 \TU/FandolFang-Regular(0)/m/n/10.53937 。 结 尾 没 太 弄 明 白 啊 ， 哈 利 波 特 和 伏 地 魔 弄 成 了 你 中 有 我 ， 我 中 有 你 的 局 面 ， 那 不 是 应 该 同 归 于 尽 吗 ？ 为 什 么 最 后 又 是 光 明 战 胜 黑 暗 的 完 满 结 局 呢 ？ [] 
+ []
+
+
+Overfull \hbox (232.95782pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 也 许 是 我 长 得 太 大 了    也 许 只 是 因 为 他 完 结 了    也 许 是 因 为 我 引 以 为 傲 的 想 象 力 在 一 点 点 的 丧 失     这 本 没 有 前 面 六 本 精 彩    但 却 是 个 完 满 的 结 局 [] 
+ []
+
+
+Overfull \hbox (55.89635pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 看 得 电 子 书 ， 与 时 俱 进 了 一 回 ！ \TU/lmtt/m/n/10.53937 ~ \TU/FandolFang-Regular(0)/m/n/10.53937 发 现 了 哈 利 波 特 父 母 都 是 水 瓶 座 呢 … … 那 个 罗 琳 大 妈 最 后 的 最 后 还 行 吧 … … [] 
+ []
+
+[43]
+Overfull \hbox (172.09299pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 烂 尾 了 ， 多 年 后 简 直 多 余 。 不 过 即 使 烂 尾 ， 也 是 真 爱 的 一 套 书 。 觉 得 罗 琳 不 会 写 爱 情 ， 哈 利 和 金 妮 完 全 不 相 配 ， 金 妮 人 设 也 立 不 住 。 [] 
+ []
+
+
+Overfull \hbox (526.21603pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 尽 管 大 结 局 其 实 可 以 从 此 前 的 很 多 蛛 丝 马 迹 猜 测 到 ， 但 最 后 的 大 场 面 还 是 挺 震 撼 。 此 外 这 一 部 里 我 很 喜 欢 一 些 很 小 很 细 节 的 情 节 ， 比 如 魔 法 部 的 电 梯 里 哈 利 罗 恩 偶 遇 罗 恩 老 爸 ， 还 有 卢 娜 家 里 卧 室 的 天 花 板 。 [] 
+ []
+
+
+Overfull \hbox (22.69728pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 这 本 拖 的 时 间 太 长   我 都 不 记 得 自 己 是 不 是 完 整 的 读 完 了   作 为 十 年 的 结 尾   哈 利 波 特 和 我 们 一 起 成 长 刻 [] 
+ []
+
+
+Overfull \hbox (33.76364pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 哈 哈 ， 这 也 是 问 那 朋 友 借 的 ， 但 我 想 这 本 就 不 打 算 还 她 了 ， 因 为 这 本 正 好 凑 成 全 套 \TU/lmtt/m/n/10.53937 ^_^ \TU/FandolFang-Regular(0)/m/n/10.53937 满 足 我 小 小 的 私 心 [] 
+ []
+
+Missing character: There is no ⊙ (U+2299) in font [lmmono10-regular]:!
+Missing character: There is no ▽ (U+25BD) in font [lmmono10-regular]:!
+Missing character: There is no ⊙ (U+2299) in font [lmmono10-regular]:!
+
+Overfull \hbox (315.95547pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 结 束 了 。 总 是 有 一 点 点 解 脱 ， 又 有 一 点 点 失 落 ， 甚 至 失 望 。 总 的 来 说 ， 收 尾 收 的 还 可 以 吧 ， 虽 然 在 高 标 准 上 来 说 一 般 般 。 。 。 一 部 很 好 看 但 还 够 不 上 伟 大 的 作 品 。 [] 
+ []
+
+
+Overfull \hbox (1605.18465pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 洗 白 了 的 斯 内 普 ， 再 不 会 回 来 的 人 们 。 也 许 从 凤 凰 社 开 始 ， 故 事 就 已 经 渐 渐 不 再 吸 引 我 了 。 \TU/lmtt/m/n/10.53937 P.S. \TU/FandolFang-Regular(0)/m/n/10.53937 “ 他 们 说 他 在 之 后 的 几 年 里 显 示 出 了 自 责 ， 他 独 自 待 在 纽 蒙 迦 德 的 地 下 室 里 ， 我 希 望 这 是 真 的 ， 我 情 愿 相 信 他 为 了 他 所 做 的 一 切 感 到 恐 惧 和 懊 悔 ， 也 许 对 伏 地 魔 说 谎 就 是 他 在 企 图 弥 补 他 的 过 错 … … 防 止 伏 地 魔 拿 走 死 圣 。 ” “ 也 许 也 是 防 止 他 入 侵 你 的 坟 墓 \TU/lmtt/m/n/10.53937 ? \TU/FandolFang-Regular(0)/m/n/10.53937 ” 哈 利 提 出 ， 邓 布 利 多 轻 轻 地 眨 了 眨 眼 。 多 少 年 后 再 回 头 ， 原 来 处 处 皆 痕 迹 。 [] 
+ []
+
+
+Overfull \hbox (1123.79865pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 二 刷 ： 上 次 看 觉 得 最 后 一 部 太 黑 暗 ， 然 后 二 刷 时 却 格 外 喜 欢 这 最 后 一 本 了 ， 只 因 最 后 每 一 个 小 角 色 带 来 的 感 动 ， 和 经 历 了 那 么 多 本 之 后 每 个 人 的 成 长 。 一 刷 ： 最 后 一 本 要 不 要 那 么 悲 ！ 要 不 要 节 奏 那 么 快 ！ 看 一 会 儿 书 \TU/lmtt/m/n/10.53937 45 \TU/FandolFang-Regular(0)/m/n/10.53937 度 角 仰 望 一 会 天 空 是 常 态 （ 人 家 一 定 以 为 我 有 病 ） 看 到 最 后 一 本 超 喜 欢 纳 威 ！ 不 亏 是 格 兰 芬 多 的 人 ， 超 级 勇 敢 ！ [] 
+ []
+
+
+Overfull \hbox (28.23048pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 [ \TU/FandolFang-Regular(0)/m/n/10.53937 当 然 是 发 生 在 你 脑 子 里 的 事 。 但 为 什 么 那 就 意 味 着 不 是 真 的 呢 。 \TU/lmtt/m/n/10.53937 ]       \TU/FandolFang-Regular(0)/m/n/10.53937 【 阿 不 思 · 西 弗 勒 斯 · 波 特 】 [] 
+ []
+
+[44]
+Overfull \hbox (481.95062pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 忍 不 住 抢 在 小 朋 友 前 面 看 完 了  \TU/lmtt/m/n/10.53937 :)  \TU/FandolFang-Regular(0)/m/n/10.53937 很 好 的 「 英 雄 教 育 」 ！ 从 古 典 套 路 里 塞 进 了 人 文 主 义 和 后 现 代 的 独 立 思 维 。 回 想 从 第 一 本 开 始 层 层 铺 垫 ， 连 环 相 扣 ， 前 后 呼 应 。 算 得 上 是 部 经 得 起 推 敲 的 好 作 品 ！ [] 
+ []
+
+
+Overfull \hbox (205.29202pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 即 便 是 各 种 故 弄 玄 虚 ， 各 种 人 物 杂 乱 ， 各 种 没 事 儿 找 事 儿 。 。 。 还 是 结 束 了 ， 故 事 在 最 后 也 达 到 了 高 潮 ， 现 在 回 头 想 更 多 的 是 看 时 的 回 忆 了 [] 
+ []
+
+
+Overfull \hbox (714.3439pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 两 天 才 看 完 ， 确 实 是 很 长 ， 结 局 没 有 出 乎 意 料 但 是 我 也 没 全 部 猜 出 来 。 一 直 不 忍 心 看 这 最 后 一 本 ， 但 真 的 开 看 还 是 蛮 吸 引 的 。 一 直 觉 得 斯 内 普 挺 杯 具 的 ， 还 好 最 后 得 到 平 反 了 。 我 想 这 作 品 中 除 了 父 母 对 子 女 的 爱 之 外 ， 就 他 的 爱 情 最 让 人 感 动 了 。 [] 
+ []
+
+
+Overfull \hbox (138.89395pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 还 是 觉 得 最 后 收 不 住 了 ， 斯 内 普 的 记 忆 那 章 感 情 过 于 集 中 ， 好 像 一 下 子 要 把 他 带 入 好 人 的 境 界 ， 而 忘 却 了 他 本 来 就 是 个 好 人 。 [] 
+ []
+
+
+Overfull \hbox (559.41507pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 双 胞 胎 的 结 局 和 教 授 ， 卢 平 的 死 看 得 我 太 难 受 了 。 想 起 死 圣 出 来 的 那 天 ， 整 个 下 午 都 在 书 店 那 里 等 着 。 拿 到 书 就 迫 不 及 待 地 回 家 看 了 。 晚 上 看 完 之 后 ， 忽 然 有 种 童 年 结 束 了 的 感 觉 。 谢 谢 你 哈 利 ， 陪 伴 了 我 这 么 久 。 [] 
+ []
+
+
+Overfull \hbox (188.69249pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 细 算 起 来 ， 从 初 中 到 现 在 ， 已 经 是 哈 \TU/lmtt/m/n/10.53937 7 \TU/FandolFang-Regular(0)/m/n/10.53937 部 一 个 系 列 了 ， 真 快 ， 时 间 走 的 真 快 这 牵 强 的 结 局 ， 给 人 狗 尾 续 貂 的 感 觉 ， 错 觉 么 ？ 还 是 我 挑 剔 了 [] 
+ []
+
+
+Overfull \hbox (94.62854pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 最 可 怕 的 事 情 永 远 不 是 死 亡 ， 还 有 太 多 太 多 比 死 亡 可 怕 的 东 西 ， 面 对 死 亡 所 展 示 出 的 勇 气 ， 才 是 \TU/lmtt/m/n/10.53937 hp \TU/FandolFang-Regular(0)/m/n/10.53937 最 为 动 人 的 品 质 。 [] 
+ []
+
+
+Overfull \hbox (288.2895pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 终 于 来 到 最 后 一 本 。 出 版 时 我 都 高 三 啦 ， 第 一 次 装 逼 的 买 了 英 文 原 版 。 “ \TU/lmtt/m/n/10.53937 This is war. \TU/FandolFang-Regular(0)/m/n/10.53937 ” \TU/lmtt/m/n/10.53937 5555 \TU/FandolFang-Regular(0)/m/n/10.53937 我 的 卢 平 唐 克 斯 … … 这 么 算 起 来 ， 其 实 我 跟 哈 利 一 样 大 嘛 \TU/lmtt/m/n/10.53937 ~ \TU/FandolFang-Regular(0)/m/n/10.53937 哈 哈 [] 
+ []
+
+
+Overfull \hbox (3148.93954pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 初 中 结 束 时 的 暑 假 仅 仅 读 完 了 前 几 章 ， 到 现 在 我 电 影 也 没 有 看   就 等 待 着 有 一 天 把 这 本 书 读 完   现 在 哈 利 波 特 的 故 事 在 我 的 世 界 中 暂 时 没 有 结 局   虽 然 已 经 被 无 处 不 在 的 流 弹 击 中 多 次 了 。 。 。 。 这 本 书 现 在 就 在 我 的 书 架 上 。 。 。 我 得 找 个 时 间   把 它 读 完   但 是 不 是 现 在   现 在 我 太 忙 了 \TU/lmtt/m/n/10.53937 2014 8 13  \TU/FandolFang-Regular(0)/m/n/10.53937 最 近 趁 着 刚 开 学 心 境 比 较 放 空 的 状 态 下 拿 起 了 之 前 陆 陆 续 续 已 经 看 了 一 半 的 哈 利 波 特   用 几 天 的 时 间 一 口 气 看 完 了 \TU/lmtt/m/n/10.53937 ....  \TU/FandolFang-Regular(0)/m/n/10.53937 话 说 结 尾 演 到 哈 利 装 死 那 段 我 特 有 画 面 感 \TU/lmtt/m/n/10.53937 ~ \TU/FandolFang-Regular(0)/m/n/10.53937 心 想 他 们 过 去 检 查 的 时 候 哈 利 哇 啦 一 下 子 蹦 起 来 一 定 会 特 别 的 有 喜 感 \TU/lmtt/m/n/10.53937 ~~   \TU/FandolFang-Regular(0)/m/n/10.53937 同 样 的 情 况 还 有 之 后 伏 地 魔 带 着 他 来 到 校 门 口 和 众 人 的 会 面 阶 段 \TU/lmtt/m/n/10.53937 .............  \TU/FandolFang-Regular(0)/m/n/10.53937 以 前 记 得 说 这 一 部 会 揭 示 我 一 直 很 期 待 的 “ 幽 灵 的 成 因 之 谜 “ 但 看 到 最 后 好 像 也 没 有 提 到 。 总 之 这 个 贯 穿 了 好 久 的 印 记 终 于 落 幕 了 \TU/lmtt/m/n/10.53937 . \TU/FandolFang-Regular(0)/m/n/10.53937 完 结 之 美 。 [] 
+ []
+
+
+Overfull \hbox (681.14487pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 还 是 喜 欢 以 前 的 故 事 ， 那 个 时 候 哈 利 没 有 变 得 这 样 高 大 全 ， 罗 恩 赫 敏 可 以 常 常 拌 嘴 ， 卢 平 还 是 忧 郁 得 帅 呆 ， 邓 布 利 多 依 然 睿 智 ， 斯 内 普 有 他 特 有 的 纯 粹 的 邪 气 。 这 个 句 号 写 得 不 好 ， 我 情 愿 伏 地 魔 没 有 强 大 没 有 死 ， 他 们 依 然 在 欢 笑 中 战 斗 。 [] 
+ []
+
+
+Overfull \hbox (902.47177pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 这 套 书 承 载 了 我 成 长 的 记 忆 。 之 前 零 散 的 买 ， 新 出 了 就 看 ， 和 现 在 追 美 剧 好 像 挺 像 的 。 不 记 得 多 少 岁 生 日 的 时 候 ， 小 姨 送 了 我 一 套 ， 当 时 还 不 像 现 在 这 样 淘 宝 ， 自 然 也 不 是 精 装 版 的 。 不 过 还 是 可 见 这 系 列 对 我 意 义 非 凡 。 也 许 不 及 米 老 鼠 在 我 心 中 的 位 置 ， 但 还 是 曾 经 有 过 一 小 块 天 空 。 [] 
+ []
+
+[45]
+Overfull \hbox (1173.59717pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 七 本 结 尾 能 收 成 这 样 算 不 错 了 \TU/lmtt/m/n/10.53937 . \TU/FandolFang-Regular(0)/m/n/10.53937 只 是 翻 译 差 了 点 ， 许 多 词 句 只 是 生 硬 的 直 译 ， 没 有 美 感 。 虽 然 封 面 上 依 然 印 了 那 两 个 译 者 的 名 字 ， 虽 然 书 来 自 卓 越 网 购 ， 却 依 旧 让 我 怀 疑 是 否 是 盗 印 版 本 ， 译 词 中 两 次 出 现 “ 你 太 有 才 了 “ 这 种 行 话 ， 真 让 人 哭 笑 不 得 ， 如 果 真 的 还 是 原 来 那 两 个 姐 妹 在 译 而 非 只 是 挂 了 羊 头 ， 那 也 太 让 人 失 望 了 。 \TU/lmtt/m/n/10.53937 (NOV 04, 2007)[] 
+ []
+
+
+Overfull \hbox (354.68767pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 最 后 的 大 战 全 员 参 加 实 在 是 太 ！ 帅 ！ 了 ！ 连 霍 格 沃 兹 的 石 像 都 冲 了 出 去 实 在 是 太 赚 眼 泪 了 。 。 但 合 起 书 来 想 想   哈 利 从 头 到 底 的 直 觉 简 直 是 支 撑 了 七 本 书 的 情 节 发 展 啊 。 。 [] 
+ []
+
+Missing character: There is no ☆ (U+2606) in font [lmmono10-regular]:!
+
+Overfull \hbox (36.71461pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 写 死 了 这 么 多 人   减 你 一 \TU/lmtt/m/n/10.53937 ☆  \TU/FandolFang-Regular(0)/m/n/10.53937 哼   不 过 还 是 看 哭 了 吧   还 是 空 落 落 的 吧   陪 伴 了 自 己 这 么 多 年 的 让 人 憧 憬 的 世 界 [] 
+ []
+
+[46]
+Overfull \hbox (205.29202pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 第 一 次 都 哈 利 波 特 ， 那 是 七 年 前 了 吧 ， 今 天 终 于 读 完 了 最 后 一 本 ， 才 发 现 ， 它 根 本 不 是 什 么 魔 幻 小 说 ， 它 不 是 在 说 魔 法 ， 而 是 在 说 “ 爱 ” 。 [] 
+ []
+
+
+Overfull \hbox (404.48616pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 很 混 沌 的 一 个 架 构 ， 然 而 从 这 里 出 发 讨 论 什 么 都 行 ， 不 过 要 是 写 成 《 追 踪 \TU/lmtt/m/n/10.53937 1789 \TU/FandolFang-Regular(0)/m/n/10.53937 》 就 没 意 思 了 。  \TU/lmtt/m/n/10.53937 14.12.12  \TU/FandolFang-Regular(0)/m/n/10.53937 补 ： 其 实 现 在 想 来 结 构 清 晰 简 单 ， 哈 利 波 特 读 起 来 总 是 很 轻 松 ， 我 拿 来 休 息 [] 
+ []
+
+
+Overfull \hbox (6.09781pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 生 命 的 意 义 不 在 追 求 长 生 ， 而 在 接 受 死 亡 。 陪 伴 一 代 人 成 长 的 哈 利 波 特 ， 感 谢 书 中 呈 现 的 爱 与 温 暖 [] 
+ []
+
+
+Overfull \hbox (216.35837pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 长 大 后 看 的 。 终 于 把 哈 利 波 特 都 看 完 了 。 很 高 兴 罗 恩 和 赫 敏 最 终 走 在 一 起 ， 想 不 到 斯 内 普 竟 然 隐 藏 最 深 。 谢 谢 小 说 内 所 有 角 色 带 给 我 的 魔 法 ！ [] 
+ []
+
+
+Overfull \hbox (149.9603pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 最 后 还 是 没 有 买 正 版 ， 在 网 友 那 要 来 的 电 子 版 。 通 宵 达 旦 的 看 完 ， 最 后 期 待 电 影 版 的 结 尾 。 貌 似 罗 琳 还 要 续 貂 ？ 道 听 途 说 而 已 。 [] 
+ []
+
+
+Overfull \hbox (161.02664pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 我 读 它 ， 是 为 了 回 忆 起 那 个 温 暖 的 感 觉 ， 为 了 想 起 你 们 ， 想 起 我 们 的 纯 真 年 代 。 大 妈 卢 娜 胡 萝 卜 头 ， 大 爹 莉 莉 ， 小 妈 ， 赫 敏 ， 。 。 [] 
+ []
+
+
+Overfull \hbox (199.75873pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 哎 ？ 读 过 竟 然 连 封 面 都 不 记 得 了 \TU/lmtt/m/n/10.53937 ...... \TU/FandolFang-Regular(0)/m/n/10.53937 大 概 因 为 不 像 前 五 部 都 被 我 翻 烂 了 ， 第 六 、 七 部 只 看 了 一 遍 ， 总 得 承 认 ， \TU/lmtt/m/n/10.53937 every story has an end.[] 
+ []
+
+
+Overfull \hbox (681.14487pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 就 这 么 结 束 了 … … 有 点 失 落 ， 有 点 不 舍 ， 罗 琳 用 了 一 个 极 长 的 铺 垫 ， 结 束 还 是 没 有 预 想 的 精 彩 ， 阅 读 在 洛 夫 古 德 家 关 于 圣 器 那 段 文 字 的 时 候 ， 一 度 恍 惚 ， 觉 得 自 己 穿 越 到 了 达 芬 奇 密 码 寻 找 圣 杯 ， 有 对 比 就 有 落 差 … … 觉 得 五 星 纯 为 纪 念 … … [] 
+ []
+
+[47]
+Overfull \hbox (426.61893pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 结 局 了 ， 像 是 硬 生 生 断 掉 了 过 去 的 十 多 年 时 光 。 刚 看 完 情 绪 还 没 缓 和 时 写 了 长 评 （ 其 实 算 是 批 评 啦 ， 汗 ） 如 今 再 看 ， 又 是 一 种 感 觉 。 除 掉 第 三 本 ， 这 本 又 是 让 我 哭 得 稀 里 哗 啦 的 一 部 … … [] 
+ []
+
+
+Overfull \hbox (1876.3101pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 不 能 用 眼 的 日 子 听 了 混 血 王 子 和 死 亡 圣 器 的 有 声 小 说 ， 爱 ， 正 直 ， 勇 敢 ， 以 后 要 当 作 睡 前 故 事 读 给 宝 宝 听 。 更 新 。 \TU/lmtt/m/n/10.53937 201911 \TU/FandolFang-Regular(0)/m/n/10.53937 重 读 ， 最 后 几 章 看 的 涕 泪 横 流 。 每 个 角 色 都 在 自 己 的 轨 迹 里 爆 发 出 巨 大 的 能 量 。 遭 受 恶 意 与 曲 解 后 仍 选 择 爱 与 善 良 ， 相 信 正 直 与 勇 敢 可 以 鼓 励 到 身 边 人 。 最 后 的 最 后 ， 伏 地 魔 还 是 阿 瓦 达 索 命 ， 哈 利 还 是 出 你 武 器 ， 性 本 善 固 然 可 贵 ， 而 历 经 这 一 切 仍 选 择 善 良 则 更 加 可 贵 。 当 你 面 对 和 接 受 死 亡 的 时 候 就 战 胜 了 死 神 ， 我 想 罗 琳 在 最 终 章 将 她 的 故 事 延 伸 到 哲 学 命 题 中 。 [] 
+ []
+
+
+Overfull \hbox (520.68275pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10.53937 1. \TU/FandolFang-Regular(0)/m/n/10.53937 邓 不 利 多 费 了 那 么 大 劲 才 搞 到 的 灵 魂 碎 片 ， 但 \TU/lmtt/m/n/10.53937 RAB \TU/FandolFang-Regular(0)/m/n/10.53937 却 如 此 轻 松 。 \TU/lmtt/m/n/10.53937 2. \TU/FandolFang-Regular(0)/m/n/10.53937 看 来 老 邓 死 后 ， 会 出 现 新 的 老 大 ， 来 继 续 帮 助 哈 利 波 特 。 \TU/lmtt/m/n/10.53937 3. \TU/FandolFang-Regular(0)/m/n/10.53937 看 电 影 前 ， 最 好 先 看 原 著 ， 电 影 删 减 修 改 太 严 重 。 而 且 删 的 都 是 精 彩 的 场 景 。 [] 
+ []
+
+
+Overfull \hbox (94.62852pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 每 个 孩 子 心 里 都 住 着 一 个 \TU/lmtt/m/n/10.53937 Hogwards \TU/FandolFang-Regular(0)/m/n/10.53937 ， 几 乎 满 足 了 我 们 对 魔 幻 世 界 所 有 的 想 象 。 读 完 第 七 部 ， 是 件 令 人 无 限 伤 感 的 事 。 [] 
+ []
+
+
+Overfull \hbox (310.42226pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 电 影 终 于 上 映 了 ， 现 在 回 想 当 初 预 定 哈 \TU/lmtt/m/n/10.53937 VII \TU/FandolFang-Regular(0)/m/n/10.53937 时 的 激 动 和 对 电 影 的 期 盼 ， 始 终 都 觉 得 好 幸 福 哦 \TU/lmtt/m/n/10.53937 ~  \TU/FandolFang-Regular(0)/m/n/10.53937 看 完 电 影 后 ， 还 是 有 些 细 节 记 不 清 楚 了 ， 所 以 又 端 起 这 本 书 读 一 读 。 [] 
+ []
+
+
+Overfull \hbox (155.49344pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 童 年 回 忆 啊 ， 昨 天 在 \TU/lmtt/m/n/10.53937 zan \TU/FandolFang-Regular(0)/m/n/10.53937 咖 啡 和 燕 燕 小 聚 的 时 候 看 的 ， 因 为 被 剧 透 得 差 不 多 了 所 以 没 啥 新 鲜 感 ， 感 觉 这 个 系 列 还 是 密 室 最 最 棒 了 ！ [] 
+ []
+
+[48]
+Overfull \hbox (183.15933pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 消 除 了 我 对 这 本 书 的 偏 见 。 以 前 听 别 人 讲 起 哈 利 波 特 的 时 候 ， 总 会 觉 得 幼 稚 ， 我 再 也 不 这 么 看 了 。 这 是 一 本 关 于 爱 、 勇 气 和 恐 惧 的 小 说 [] 
+ []
+
+
+Overfull \hbox (39.29684pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 整 个 故 事 告 诉 我 们 ， 做 女 人 要 行 善 积 德 ， 这 样 万 一 挂 了 ， 也 还 有 人 看 在 与 你 旧 日 的 情 分 上 罩 着 你 儿 子 … … [] 
+ []
+
+
+Overfull \hbox (1228.92894pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 这 本 书 里 面 我 最 喜 欢 的 台 词 — “   但 是 他 知 道 的 东 西 一 直 都 少 得 可 怜 ， 哈 利 ， 这 是 伏 地 魔 最 没 用 的 地 方 ， 他 从 来 不 费 神 去 理 解 去 领 会 ， 关 于 家 养 小 精 灵 与 孩 子 们 的 故 事 ， 关 于 爱 ， 关 于 忠 诚 和 清 白 ， 伏 地 魔 不 理 解 也 不 知 道 这 些 ， 什 么 也 不 知 道 。 而 这 些 东 西 所 拥 有 的 力 量 是 远 远 超 过 他 的 ， 是 任 何 魔 法 都 无 法 匹 敌 的 ， 这 是 一 个 他 永 远 也 理 解 不 了 的 事 实 。 ” [] 
+ []
+
+
+Overfull \hbox (1013.13522pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 《 哈 利 波 特 与 死 亡 圣 器 》 应 该 是 整 个 系 列 中 写 得 最 好 的 一 部 ， 这 并 不 因 为 这 是 这 个 系 列 的 终 结 ， 也 不 因 为 这 是 所 有 伏 笔 的 谜 底 ， 而 是 在 于 此 书 在 人 性 的 挖 掘 上 ， 是 整 个 系 列 最 为 深 刻 的 ， 比 如 三 人 组 之 间 的 矛 盾 ， 比 《 火 焰 杯 》 要 来 得 让 人 无 助 ， 甚 至 是 绝 望 ， 而 这 ， 本 来 就 是 这 部 小 说 的 黑 暗 面 所 应 该 带 来 的 。 [] 
+ []
+
+
+Overfull \hbox (50.36319pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 终 于 几 年 之 后 还 是 看 了 哈 七 ， 当 时 拒 绝 相 信 热 爱 的 人 物 死 亡 ， 现 在 也 是 。 跳 读 完 了 这 一 本 ， 也 算 一 个 结 束 。 [] 
+ []
+
+Missing character: There is no 濛 (U+6FDB) in font [FandolFang-Regular.otf]/OT:language=dflt;!
+
+Overfull \hbox (769.67563pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 一 个 不 成 熟 男 人 的 标 志 是 能 为 了 伟 大 的 事 业 死 去 ， 而 一 个 成 熟 男 人 的 标 志 是 恩 呢 该 为 了 伟 大 的 事 业 坚 韧 地 活 着 。 即 使 被 误 解 、 即 使 被 厌 恶 、 即 使 被 丑 化 、 即 使 被 愤 恨 ， 用 尽 全 力 去 做 自 己 认 为 对 的 事 ， 最 后 ， 连 自 己 的 活 ， 都 成 为 另 一 种 伟 大 。 — — 给 斯 内 普 。 [] 
+ []
+
+
+Overfull \hbox (183.15933pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 我 是 否 注 定 要 知 道 ， 而 不 是 去 谋 求 ？ 你 是 否 会 知 道 我 会 觉 得 这 有 多 难 ？ 是 否 正 因 为 如 此 ， 你 才 把 它 安 排 的 如 此 困 难 ， 让 我 有 时 间 领 悟 ？ [] 
+ []
+
+[49]
+Overfull \hbox (1306.39326pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 基 本 \TU/lmtt/m/n/10.53937 10 \TU/FandolFang-Regular(0)/m/n/10.53937 年 了 。 看 前 \TU/lmtt/m/n/10.53937 6 \TU/FandolFang-Regular(0)/m/n/10.53937 本 书 的 时 候 ， 我 还 不 是 一 个 英 语 专 业 的 学 生 ， 我 还 处 在 懵 懂 的 中 学 时 期 ， 好 多 事 还 没 有 发 生 。 看 完 第 \TU/lmtt/m/n/10.53937 7 \TU/FandolFang-Regular(0)/m/n/10.53937 本 ， 我 已 经 在 大 学 的 尾 巴 尖 上 ， 但 却 又 是 前 所 未 有 地 对 哈 利 波 特 如 此 着 迷 。 我 们 以 为 时 间 流 逝 ， 很 多 东 西 终 将 逝 去 ， 然 而 最 珍 贵 地 总 是 藏 在 心 底 ： 勇 敢 、 纯 洁 、 忠 诚 。 当 你 需 要 她 ， 当 你 召 唤 她 ， 她 定 会 出 现 。 感 谢 你 一 直 带 来 的 感 动 。 \TU/lmtt/m/n/10.53937 Bye, Harry.[] 
+ []
+
+
+Overfull \hbox (3115.74057pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 第 \TU/lmtt/m/n/10.53937 1 \TU/FandolFang-Regular(0)/m/n/10.53937 部 ： 从 前 有 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 有 一 天 ， 他 抢 了 伏 地 魔 最 想 要 的 石 头 。 第 \TU/lmtt/m/n/10.53937 2 \TU/FandolFang-Regular(0)/m/n/10.53937 部 ： 从 前 有 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 有 一 天 ， 他 毁 了 伏 地 魔 珍 藏 多 年 的 日 记 。 第 \TU/lmtt/m/n/10.53937 3 \TU/FandolFang-Regular(0)/m/n/10.53937 部 ： 从 前 有 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 有 一 天 ， 他 赶 走 了 摄 魂 怪 ， 救 出 了 他 的 教 父 。 第 \TU/lmtt/m/n/10.53937 4 \TU/FandolFang-Regular(0)/m/n/10.53937 部 ： 从 前 有 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 有 一 天 ， 他 到 墓 地 里 把 伏 地 魔 揍 了 一 顿 。 第 \TU/lmtt/m/n/10.53937 5 \TU/FandolFang-Regular(0)/m/n/10.53937 部 ： 从 前 有 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 有 一 天 ， 他 叫 了 一 帮 人 去 和 伏 地 魔 打 群 架 。 第 \TU/lmtt/m/n/10.53937 6 \TU/FandolFang-Regular(0)/m/n/10.53937 部 ： 从 前 有 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 有 一 天 ， 他 去 偷 伏 地 魔 的 东 西 ， 结 果 把 一 个 老 头 害 死 了 。 第 \TU/lmtt/m/n/10.53937 7 \TU/FandolFang-Regular(0)/m/n/10.53937 部 ： 从 前 有 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 有 好 几 天 ， 他 偷 了 伏 地 魔 的 好 多 东 西 ， 结 果 ， 有 一 天 ， 他 死 了 ， 又 活 回 来 ， 抢 了 伏 地 魔 的 魔 杖 ， 把 伏 地 魔 杀 了 。 全 总 结 ： 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 的 整 体 剧 情 就 是 ， 一 个 男 孩 叫 哈 利 \TU/lmtt/m/n/10.53937 • \TU/FandolFang-Regular(0)/m/n/10.53937 波 特 ， 没 事 喜 欢 找 伏 地 魔 的 麻 烦 。 [] 
+ []
+
+Missing character: There is no 說 (U+8AAA) in font [FandolFang-Regular.otf]/OT:language=dflt;!
+
+Overfull \hbox (979.93588pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 不 得 不 說 哈 利 · 波 特 系 列 之 所 以 如 此 成 功 的 原 因 之 一 就 是 他 不 完 美 \TU/lmtt/m/n/10.53937 . \TU/FandolFang-Regular(0)/m/n/10.53937 有 時 候 真 的 想 給 他 一 拳 讓 他 清 醒 一 下 少 自 以 爲 是 了 \TU/lmtt/m/n/10.53937 , \TU/FandolFang-Regular(0)/m/n/10.53937 但 這 才 讓 他 成 爲 一 個 活 生 生 的 人 \TU/lmtt/m/n/10.53937 , \TU/FandolFang-Regular(0)/m/n/10.53937 有 血 有 肉 有 悲 有 喜 有 對 有 錯 \TU/lmtt/m/n/10.53937 ... \TU/FandolFang-Regular(0)/m/n/10.53937 最 可 惜 就 是 \TU/lmtt/m/n/10.53937 Lupin \TU/FandolFang-Regular(0)/m/n/10.53937 跟 \TU/lmtt/m/n/10.53937 Tonks \TU/FandolFang-Regular(0)/m/n/10.53937 這 對 \TU/lmtt/m/n/10.53937 , \TU/FandolFang-Regular(0)/m/n/10.53937 挑 誰 不 好 偏 他 們 啊 \TU/lmtt/m/n/10.53937 T T!!!!! \TU/FandolFang-Regular(0)/m/n/10.53937 還 有 \TU/lmtt/m/n/10.53937 Fred,George \TU/FandolFang-Regular(0)/m/n/10.53937 倆 少 一 個 外 缺 一 只 耳 朵 \TU/lmtt/m/n/10.53937 ... \TU/FandolFang-Regular(0)/m/n/10.53937 真 的 好 心 疼 \TU/lmtt/m/n/10.53937 QAQ[] 
+ []
+
+
+Overfull \hbox (50.36314pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 泪 点 来 得 太 早 也 不 够 持 久 \TU/lmtt/m/n/10.53937 >< \TU/FandolFang-Regular(0)/m/n/10.53937 但 是 结 束 了 呀 。 最 后 \TU/lmtt/m/n/10.53937 10 \TU/FandolFang-Regular(0)/m/n/10.53937 章 保 持 在 深 夜 档 看 的 ， 在 看 之 前 被 透 露 了 下 要 死 好 多 人 。 [] 
+ []
+
+
+Overfull \hbox (39.29684pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 斯 内 普 很 爱 莉 莉 。 弗 雷 德 死 了 。 多 比 死 了 。 邓 布 利 多 和 哈 利 在 车 站 的 谈 话 。 看 到 以 上 的 片 段 情 节 ， 哭 了 。 [] 
+ []
+
+
+Overfull \hbox (138.89395pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 为 了 终 结 ， 画 上 一 个 句 号 ， 不 管 这 句 号 圆 不 圆 满 。 前 半 段 的 逃 亡 真 的 很 压 抑 ， 后 面 的 爆 发 还 不 够 厉 害 ， 不 过 人 倒 是 死 了 很 多 。 [] 
+ []
+
+
+Overfull \hbox (387.8865pt too wide) in paragraph at lines 2115--2115
+[] \TU/FandolFang-Regular(0)/m/n/10.53937 即 使 看 再 多 遍   依 然 会 感 动   它 包 含 所 有 我 需 要 学 会 的 爱   勇 气   力 量   友 谊   感 谢 \TU/lmtt/m/n/10.53937 RWOLING \TU/FandolFang-Regular(0)/m/n/10.53937 阿 姨   使 很 多 孩 子 相 信   真 的 有 魔 法 存 在   在 心 里 \TU/lmtt/m/n/10.53937 ~[ \TU/FandolFang-Regular(0)/m/n/10.53937 老 斯 绝 对 是 模 子 丫 、 、 、 太 伟 大 了 、 、 、 \TU/lmtt/m/n/10.53937 ][] 
+ []
+
+[50] [51] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AF573FE732E5908022B8121C6C681804;277.
+(rerunfilecheck)             Checksum: 0436B5277F2710C3EF3F9764E93C18FE;2223.
  ) 
 Here is how much of TeX's memory you used:
- 20571 strings out of 478179
- 418245 string characters out of 5853704
- 853268 words of memory out of 5000000
- 40860 multiletter control sequences out of 15000+600000
- 474726 words of font info for 98 fonts, out of 8000000 for 9000
+ 21437 strings out of 478189
+ 437768 string characters out of 5854346
+ 1047248 words of memory out of 5000000
+ 41681 multiletter control sequences out of 15000+600000
+ 476696 words of font info for 114 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 89i,5n,125p,420b,936s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 89i,8n,121p,949b,906s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (11 pages).
+Output written on main.pdf (52 pages).
+
+! Fontconfig warning: ignoring UTF-8: not a valid region tag

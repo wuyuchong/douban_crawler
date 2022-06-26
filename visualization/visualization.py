@@ -83,7 +83,7 @@ def cutWords(fpath):
 def drawWordcloud():
     with open('cut_word.txt', encoding='utf-8') as f:
         comment_text = f.read()
-    color_mask = imread("backgroud.png")  # 读取背景图片
+    color_mask = imread("background.png")  # 读取背景图片
     Stopwords = [u'就是', u'作者', u'你们', u'这么', u'不过', u'但是', u'什么', u'没有',
                  u'这个', u'那个', u'大家', u'比较', u'看到', u'真是', u'就', u'在', u'的',
                  u'都', u'但', u'是', u'多', u'这', u'看', u'完', u'了', u'我', u'也', u'还', u'很',

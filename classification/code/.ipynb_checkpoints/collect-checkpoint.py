@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -------------------->  准备工作 ---------------------------------------------
-import sys
+
 import time
 import random
 import requests
@@ -62,7 +62,9 @@ for index in [2295163]:
             # 设置随机休眠防止IP被封
             time.sleep(1 + float(random.randint(1, 20)) / 20)
     print('成功完成爬取任务')
-outcome = pd.DataFrame(list(zip(text, rating)), columns=['text', 'rating'])
-outcome.to_csv('./text/text.csv')
+print(len(text))
+print(len(rating))
+outcome = pd.DataFrame(list(zip(text, rating)), columns=['text, rating'])
+outcome.to_csv('.text/text.csv')
 print('-------------------------finish-----------------------------')
 # -----------------------------------------------------------------------------
